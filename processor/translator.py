@@ -16,6 +16,25 @@ if TYPE_CHECKING:
 
 logger = logging.getLogger(__name__)
 
+
+def translate_title_free(title: str) -> str:
+    """Translate title to Chinese using MyMemory free API (no key needed)."""
+    try:
+        import requests
+        resp = requests.get(
+            "https://api.mymemory.translated.net/get",
+            params={"q": title[:500], "langpair": "en|zh"},
+            timeout=10,
+        )
+        if resp.ok:
+            data = resp.json()
+            translated = data.get("responseData", {}).get("translatedText", "")
+            if translated and translated != title:
+                return translated
+    except Exception:
+        pass
+    return title
+
 # ── Delimiter tags used in LLM output ─────────────────────────────────────────
 _TAGS = ["TITLE_ZH", "CORE_VALUE", "KEYWORDS", "ABSTRACT_EN", "ABSTRACT_ZH"]
 

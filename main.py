@@ -77,19 +77,29 @@ def run(target_date: date, config: dict, use_llm: bool = True) -> Path:
         all_papers = fetch_papers_for_journal(jcfg, target_date, fallback_days=fallback_days)
 
         # Try papers from target_date first
-        today_papers = [p for p in all_papers if p.pub_date == target_date]
-        matched_today = filter_papers(today_papers, topics)
+        # Allow ±1 day tolerance for timezone differences across journals
+        today_papers = [p for p in all_papers
+                        if p.pub_date and abs((p.pub_date - target_date).days) <= 1]
 
-        if matched_today:
-            selected = matched_today[:2]  # up to 2 papers per journal per day
+        if today_papers:
+            # RSS found papers for this date → show all (journal itself is the filter)
+            selected = today_papers[:3]
         else:
-            # Fallback: pick the most recent relevant paper from wider window
+            # No papers found for this date → keyword-filter the 30-day fallback
             selected = select_best_fallback(all_papers, topics, n=1)
             if selected:
                 fallback_journals.add(jname)
                 logging.info("  → fallback paper: %s", selected[0].pub_date)
+            else:
+                # Last resort: just take the most recent paper regardless of topic
+                recent = sorted([p for p in all_papers if p.pub_date],
+                                key=lambda p: p.pub_date, reverse=True)
+                if recent:
+                    selected = [recent[0]]
+                    fallback_journals.add(jname)
+                    logging.info("  → last-resort fallback: %s", selected[0].pub_date)
 
-        # LLM processing
+        # LLM processing (full summary) or free title translation fallback
         if processor and selected:
             processed = []
             for paper in selected:
@@ -99,6 +109,13 @@ def run(target_date: date, config: dict, use_llm: bool = True) -> Path:
                     logging.warning("  LLM failed for '%s': %s", paper.title[:50], e)
                     processed.append(paper)
             selected = processed
+        else:
+            # No LLM: at least translate the title for free
+            from processor.translator import translate_title_free
+            for paper in selected:
+                if not paper.title_zh:
+                    paper.title_zh = translate_title_free(paper.title)
+                    logging.info("  Translated: %s", paper.title_zh[:60])
 
         results[jname] = selected
         logging.info("  → %d paper(s) selected", len(selected))
