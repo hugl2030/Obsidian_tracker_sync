@@ -2,8 +2,9 @@ name: Daily Journal Tracker
 
 on:
   schedule:
-    # 01:00 UTC = 09:00 Beijing Time
-    - cron: "0 1 * * *"
+    # 15:00 UTC = 08:00 San Francisco (PDT, UTC-7, Mar–Nov)
+    # Note: during PST (UTC-8, Nov–Mar) this fires at 07:00 SF time
+    - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
       date:
@@ -32,18 +33,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 3. Run the tracker ──────────────────────────────────────────────────
+      # ── 3. Resolve target date (yesterday SF time) ─────────────────────────
+      - name: Set target date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            TARGET="${{ github.event.inputs.date }}"
+          else
+            # Yesterday in San Francisco time (UTC-7 PDT / UTC-8 PST)
+            TARGET=$(TZ="America/Los_Angeles" date -d "yesterday" +%Y-%m-%d 2>/dev/null \
+                     || TZ="America/Los_Angeles" date -v-1d +%Y-%m-%d)
+          fi
+          echo "target=${TARGET}" >> $GITHUB_OUTPUT
+          echo "year=${TARGET:0:4}" >> $GITHUB_OUTPUT
+          echo "Target date: ${TARGET}"
+
+      # ── 4. Run the tracker ──────────────────────────────────────────────────
       - name: Run journal tracker
         env:
           ZHIPUAI_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
         run: |
-          DATE_ARG=""
-          if [ -n "${{ github.event.inputs.date }}" ]; then
-            DATE_ARG="--date ${{ github.event.inputs.date }}"
-          fi
-          python main.py $DATE_ARG --verbose
+          python main.py --date ${{ steps.date.outputs.target }} --verbose
 
-      # ── 4. Commit output to this repo ───────────────────────────────────────
+      # ── 5. Commit output to this repo ───────────────────────────────────────
       - name: Commit output files
         run: |
           git config user.name  "github-actions[bot]"
@@ -52,30 +64,29 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            YEAR=$(date -u +%Y)
-            DATE=$(date -u +%Y-%m-%d)
-            git commit -m "📰 Daily digest ${DATE}"
+            git commit -m "📰 Daily digest ${{ steps.date.outputs.target }}"
             git push
           fi
 
-      # ── 5. Sync to Obsidian vault repo ─────────────────────────────────────
+      # ── 6. Sync to Obsidian vault repo ─────────────────────────────────────
       - name: Sync to Obsidian vault
         env:
           OBSIDIAN_TOKEN: ${{ secrets.OBSIDIAN_SYNC_TOKEN }}
-          OBSIDIAN_REPO: ${{ secrets.OBSIDIAN_REPO }}   # e.g. hugl2030/obsidian-vault
+          OBSIDIAN_REPO: ${{ secrets.OBSIDIAN_REPO }}
         run: |
           if [ -z "$OBSIDIAN_REPO" ] || [ -z "$OBSIDIAN_TOKEN" ]; then
             echo "⚠️  OBSIDIAN_REPO or OBSIDIAN_SYNC_TOKEN not set — skipping Obsidian sync."
             exit 0
           fi
 
-          YEAR=$(date -u +%Y)
-          DATE=$(date -u +%Y-%m-%d)
+          TARGET="${{ steps.date.outputs.target }}"
+          YEAR="${{ steps.date.outputs.year }}"
           VAULT_DIR="10_Journals/daily-papers/${YEAR}"
-          MD_FILE="output/${YEAR}/${DATE}.md"
+          MD_FILE="output/${YEAR}/${TARGET}.md"
 
           if [ ! -f "$MD_FILE" ]; then
             echo "❌ Markdown file not found: $MD_FILE"
+            ls output/ 2>/dev/null || echo "(output dir is empty)"
             exit 1
           fi
 
@@ -86,19 +97,18 @@ jobs:
 
           # Copy markdown to vault
           mkdir -p "obsidian_vault/${VAULT_DIR}"
-          cp "$MD_FILE" "obsidian_vault/${VAULT_DIR}/${DATE}.md"
-          # Also update latest.md
+          cp "$MD_FILE" "obsidian_vault/${VAULT_DIR}/${TARGET}.md"
           cp "output/latest.md" "obsidian_vault/10_Journals/daily-papers/latest.md" 2>/dev/null || true
 
           # Commit & push
           cd obsidian_vault
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "${VAULT_DIR}/${DATE}.md" "10_Journals/daily-papers/latest.md" 2>/dev/null || true
+          git add "${VAULT_DIR}/${TARGET}.md" "10_Journals/daily-papers/latest.md" 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes in Obsidian vault."
           else
-            git commit -m "📰 Journal digest ${DATE}"
+            git commit -m "📰 Journal digest ${TARGET}"
             git push
           fi
 
