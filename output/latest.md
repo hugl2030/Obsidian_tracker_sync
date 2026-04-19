@@ -9,7 +9,7 @@ topics: [battery, microscopy, 2D-materials, materials]
 > 涵盖期刊：Nature 系列 · Science 系列 · ACS · Wiley
 > 话题：电池 · 电子显微镜 · 二维材料 · 材料科学
 
-> 本期共收录 **13** 篇，覆盖 **17** 个期刊。
+> 本期共收录 **12** 篇，覆盖 **17** 个期刊。
 
 ---
 
@@ -430,38 +430,8 @@ Nature Sustainability, Published online: 17 April 2026;  doi:10.1038/s41893-026-
 
 ## Science
 
-*（当日无相关文章，以下为近期精选）*
+*（未找到相关文章）*
 
-### 1. Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase
-
-> **Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase**
-
-| | |
-|---|---|
-| **期刊** | Science |
-| **作者** | Pujuan Deng, Hyunbin Lee, Carlo Armijo, Haoqing Wang et al. |
-| **日期** | 2026-04-16 |
-| **DOI** | [10.1126/science.aed1656](https://doi.org/10.1126/science.aed1656) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Defense-associated reverse transcriptases (DRTs) are widespread bacterial anti-phage systems that use unconventional mechanisms of polynucleotide synthesis. We show that DRT3, which comprises two distinct RTs (Drt3a and Drt3b) and a noncoding RNA (ncRNA), synthesizes alternating poly(GT/AC) double-stranded DNA. Cryo–electron microscopy structures at 2.6 Å resolution reveal a D3-symmetric 6:6:6 complex of Drt3a, Drt3b, and ncRNA. Drt3a produces the poly(GT) strand using a conserved ACACAC template within the ncRNA. Notably, Drt3b synthesizes a complementary, protein-primed poly(AC) strand in the complete absence of a nucleic acid template, using conserved active site residues specific to Drt3b to enforce precise base alternation. These findings expand the functional landscape of nucleic acid polymerases, revealing a protein-templated mechanism for sequence-specific DNA synthesis.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
 ## Science Advances
 
 *（当日无相关文章，以下为近期精选）*
