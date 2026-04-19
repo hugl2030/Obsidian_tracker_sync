@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+output/
+*.egg-info/
+.venv/
+venv/
+obsidian_vault/

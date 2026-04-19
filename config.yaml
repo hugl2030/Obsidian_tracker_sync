@@ -1,0 +1,186 @@
+journals:
+  - name: "Nature"
+    rss: "https://www.nature.com/nature.rss"
+    issn: "0028-0836"
+    short: "nature"
+
+  - name: "Science"
+    rss: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    issn: "0036-8075"
+    short: "science"
+
+  - name: "Nature Chemistry"
+    rss: "https://www.nature.com/nchem.rss"
+    issn: "1755-4330"
+    short: "nchem"
+
+  - name: "Nature Materials"
+    rss: "https://www.nature.com/nmat.rss"
+    issn: "1476-1122"
+    short: "nmat"
+
+  - name: "Nature Physics"
+    rss: "https://www.nature.com/nphys.rss"
+    issn: "1745-2473"
+    short: "nphys"
+
+  - name: "Nature Energy"
+    rss: "https://www.nature.com/nenergy.rss"
+    issn: "2058-7546"
+    short: "nenergy"
+
+  - name: "Nature Nanotechnology"
+    rss: "https://www.nature.com/nnano.rss"
+    issn: "1748-3387"
+    short: "nnano"
+
+  - name: "Nature Synthesis"
+    rss: "https://www.nature.com/natsynth.rss"
+    issn: "2731-0582"
+    short: "natsynth"
+
+  - name: "Nature Communications"
+    rss: "https://www.nature.com/ncomms.rss"
+    issn: "2041-1723"
+    short: "ncomms"
+
+  - name: "Nature Sustainability"
+    rss: "https://www.nature.com/natsustain.rss"
+    issn: "2398-9629"
+    short: "natsustain"
+
+  - name: "Nature Water"
+    rss: "https://www.nature.com/natwater.rss"
+    issn: "2731-6084"
+    short: "natwater"
+
+  - name: "Science Advances"
+    rss: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    issn: "2375-2548"
+    short: "sciadv"
+
+  - name: "JACS"
+    rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat"
+    issn: "0002-7863"
+    short: "jacs"
+
+  - name: "Nano Letters"
+    rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=nalefd"
+    issn: "1530-6984"
+    short: "nl"
+
+  - name: "ACS Energy Letters"
+    rss: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aelccp"
+    issn: "2380-8195"
+    short: "acsenergylett"
+
+  - name: "Angewandte Chemie"
+    rss: "https://onlinelibrary.wiley.com/feed/15213773/most-recent"
+    issn: "1433-7851"
+    short: "angew"
+
+  - name: "Advanced Materials"
+    rss: "https://onlinelibrary.wiley.com/feed/15214095/most-recent"
+    issn: "0935-9648"
+    short: "advmat"
+
+# Keywords for topic filtering (title + abstract are searched)
+topics:
+  battery:
+    - battery
+    - batteries
+    - lithium-ion
+    - lithium ion
+    - sodium-ion
+    - sodium ion
+    - potassium-ion
+    - solid-state electrolyte
+    - solid electrolyte
+    - electrolyte
+    - cathode
+    - anode
+    - fuel cell
+    - energy storage
+    - supercapacitor
+    - electrochemical energy
+    - Li-S
+    - lithium-sulfur
+    - zinc-ion
+    - metal-air battery
+
+  microscopy:
+    - TEM
+    - STEM
+    - 4D-STEM
+    - cryo-EM
+    - cryo-TEM
+    - electron microscopy
+    - electron tomography
+    - HAADF
+    - EELS
+    - aberration-corrected
+    - scanning transmission electron
+    - in situ electron
+    - annular dark field
+    - EDX mapping
+    - electron ptychography
+    - ptychography
+    - phase contrast
+
+  two_d_materials:
+    - graphene
+    - MoS2
+    - MXene
+    - transition metal dichalcogenide
+    - TMD
+    - van der Waals
+    - 2D material
+    - two-dimensional material
+    - monolayer
+    - hexagonal boron nitride
+    - h-BN
+    - black phosphorus
+    - MoSe2
+    - WSe2
+    - WS2
+    - MoTe2
+    - heterostructure
+    - moiré
+
+  materials:
+    - nanomaterial
+    - perovskite
+    - metal-organic framework
+    - MOF
+    - zeolite
+    - nanocatalyst
+    - semiconductor
+    - nanoparticle
+    - nanostructure
+    - thin film
+    - crystal structure
+    - superconductor
+    - topological material
+    - ferroelectric
+    - multiferroic
+    - magnetic material
+    - high-entropy alloy
+    - single atom catalyst
+    - photocatalyst
+    - electrocatalyst
+
+llm:
+  model: "glm-4-flash"
+  max_retries: 3
+
+schedule:
+  time: "09:00"
+  timezone: "Asia/Shanghai"
+
+output:
+  dir: "./output"
+  format: "markdown"
+
+obsidian:
+  vault_dir: "10_Journals/daily-papers"
+  year_subdir: true

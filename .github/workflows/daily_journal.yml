@@ -1,0 +1,111 @@
+name: Daily Journal Tracker
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Beijing Time
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Target date (YYYY-MM-DD), leave empty for yesterday"
+        required: false
+        default: ""
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Checkout this repo ───────────────────────────────────────────────
+      - name: Checkout tracker repo
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Run the tracker ──────────────────────────────────────────────────
+      - name: Run journal tracker
+        env:
+          ZHIPUAI_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
+        run: |
+          DATE_ARG=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+          python main.py $DATE_ARG --verbose
+
+      # ── 4. Commit output to this repo ───────────────────────────────────────
+      - name: Commit output files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            YEAR=$(date -u +%Y)
+            DATE=$(date -u +%Y-%m-%d)
+            git commit -m "📰 Daily digest ${DATE}"
+            git push
+          fi
+
+      # ── 5. Sync to Obsidian vault repo ─────────────────────────────────────
+      - name: Sync to Obsidian vault
+        env:
+          OBSIDIAN_TOKEN: ${{ secrets.OBSIDIAN_SYNC_TOKEN }}
+          OBSIDIAN_REPO: ${{ secrets.OBSIDIAN_REPO }}   # e.g. hugl2030/obsidian-vault
+        run: |
+          if [ -z "$OBSIDIAN_REPO" ] || [ -z "$OBSIDIAN_TOKEN" ]; then
+            echo "⚠️  OBSIDIAN_REPO or OBSIDIAN_SYNC_TOKEN not set — skipping Obsidian sync."
+            exit 0
+          fi
+
+          YEAR=$(date -u +%Y)
+          DATE=$(date -u +%Y-%m-%d)
+          VAULT_DIR="10_Journals/daily-papers/${YEAR}"
+          MD_FILE="output/${YEAR}/${DATE}.md"
+
+          if [ ! -f "$MD_FILE" ]; then
+            echo "❌ Markdown file not found: $MD_FILE"
+            exit 1
+          fi
+
+          # Clone Obsidian vault
+          git clone --depth=1 \
+            "https://x-access-token:${OBSIDIAN_TOKEN}@github.com/${OBSIDIAN_REPO}.git" \
+            obsidian_vault
+
+          # Copy markdown to vault
+          mkdir -p "obsidian_vault/${VAULT_DIR}"
+          cp "$MD_FILE" "obsidian_vault/${VAULT_DIR}/${DATE}.md"
+          # Also update latest.md
+          cp "output/latest.md" "obsidian_vault/10_Journals/daily-papers/latest.md" 2>/dev/null || true
+
+          # Commit & push
+          cd obsidian_vault
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${VAULT_DIR}/${DATE}.md" "10_Journals/daily-papers/latest.md" 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes in Obsidian vault."
+          else
+            git commit -m "📰 Journal digest ${DATE}"
+            git push
+          fi
+
+      # ── 6. Save artifact ────────────────────────────────────────────────────
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: journal-digest-${{ github.run_number }}
+          path: output/
+          retention-days: 7
