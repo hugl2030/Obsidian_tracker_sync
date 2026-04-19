@@ -9,7 +9,7 @@ topics: [battery, microscopy, 2D-materials, materials]
 > 涵盖期刊：Nature 系列 · Science 系列 · ACS · Wiley
 > 话题：电池 · 电子显微镜 · 二维材料 · 材料科学
 
-> 本期共收录 **12** 篇，覆盖 **17** 个期刊。
+> 本期共收录 **17** 篇，覆盖 **17** 个期刊。
 
 ---
 
@@ -49,21 +49,28 @@ ACS Energy Letters DOI: 10.1021/acsenergylett.6c00507
 ---
 ## Advanced Materials
 
-### 1. Turning Unpredictable Biomolecule Adsorption to Controlled Corona Formation: Focus on Carbon Nanomaterials
+### 1. Design of Intrinsic Polyimides via a Restricted Dihedral‐Rotation Structural Strategy for Superior High‐Temperature Capacitive Applications
 
-> **Turning Unpredictable Biomolecule Adsorption to Controlled Corona Formation: Focus on Carbon Nanomaterials**
+> **Design of Intrinsic Polyimides via a Restricted Dihedral‐Rotation Structural Strategy for Superior High‐Temperature Capacitive Applications**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Yajuan Zou, 
-Yalei Hu, 
-Jie Yu, 
-Naoki Komatsu, 
-Yuta Nishina, 
-Alberto Bianco |
+| **作者** | Bingyu Zou, 
+Shuo Zhao, 
+Yang Zhao, 
+Bingxi He, 
+Mufeng Zhang, 
+Fan Ye, 
+Weifeng Peng, 
+Le Zhou, 
+Rui Wang, 
+Feng Bao, 
+Yang Shen, 
+Mingjun Huang, 
+Ce‐Wen Nan |
 | **日期** | 2026-04-18 |
-| **DOI** | [10.1002/adma.202523328](https://doi.org/10.1002/adma.202523328) |
+| **DOI** | [10.1002/adma.202520134](https://doi.org/10.1002/adma.202520134) |
 
 **🔑 核心价值**：（暂无）
 
@@ -84,24 +91,25 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 2. Data‐Driven Discovery of Quaternary Ammonium Interlayers for Efficient and Thermally Stable Perovskite Solar Cells
+### 2. Dynamically Crosslinked Carbon Dot/Alginate Hydrogels for On‐Demand Osteomyelitis Therapy
 
-> **Data‐Driven Discovery of Quaternary Ammonium Interlayers for Efficient and Thermally Stable Perovskite Solar Cells**
+> **Dynamically Crosslinked Carbon Dot/Alginate Hydrogels for On‐Demand Osteomyelitis Therapy**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Jongbeom Kim, 
-Yang Jeong Park, 
-Chaehoon Jeon, 
-Nahye Shin, 
-Jaewang Park, 
-Seungun Lee, 
-Jino Im, 
-Sungroh Yoon, 
-Sang Il Seok |
+| **作者** | Yang Wang, 
+Siyuan Ma, 
+Yan Zhao, 
+Jinyan Hu, 
+Zhenlin Zhang, 
+Hongjing Dou, 
+Ping Li, 
+Dengyu Pan, 
+Bijiang Geng, 
+Longxiang Shen |
 | **日期** | 2026-04-18 |
-| **DOI** | [10.1002/adma.202522554](https://doi.org/10.1002/adma.202522554) |
+| **DOI** | [10.1002/adma.73080](https://doi.org/10.1002/adma.73080) |
 
 **🔑 核心价值**：（暂无）
 
@@ -238,7 +246,37 @@ Journal of the American Chemical Society DOI: 10.1021/jacs.6c01370
 ---
 ## Nano Letters
 
-### 1. [ASAP] Multifunctional Zinc-Tannic Acid Nanoparticles Target α-Synuclein Aggregation and Oxidative Stress in Parkinson’s Disease
+### 1. [ASAP] Photoionization Current Spectroscopy of Individual Silicon Vacancies in Silicon Carbide
+
+> **[ASAP] Photoionization Current Spectroscopy of Individual Silicon Vacancies in Silicon Carbide**
+
+| | |
+|---|---|
+| **期刊** | Nano Letters |
+| **作者** | Kazuki Okajima, Tetsuri Nishikawa, Hiroshi Abe, Koichi Murata, Takeshi Ohshima, Hidekazu Tsuchida, Naoya Morioka, and Norikazu Mizuochi |
+| **日期** | 2026-04-18 |
+| **DOI** | [10.1021/acs.nanolett.5c05964](https://doi.org/10.1021/acs.nanolett.5c05964) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nano Letters DOI: 10.1021/acs.nanolett.5c05964
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 2. [ASAP] Multifunctional Zinc-Tannic Acid Nanoparticles Target α-Synuclein Aggregation and Oxidative Stress in Parkinson’s Disease
 
 > **[ASAP] Multifunctional Zinc-Tannic Acid Nanoparticles Target α-Synuclein Aggregation and Oxidative Stress in Parkinson’s Disease**
 
@@ -274,8 +312,38 @@ Nano Letters DOI: 10.1021/acs.nanolett.6c00790
 
 ## Nature Chemistry
 
-*（未找到相关文章）*
+*（当日无相关文章，以下为近期精选）*
 
+### 1. Single-crystalline two-dimensional vinylene frameworks through topological conversion
+
+> **Single-crystalline two-dimensional vinylene frameworks through topological conversion**
+
+| | |
+|---|---|
+| **期刊** | Nature Chemistry |
+| **作者** | Shengxu Li, Tao Zhang |
+| **日期** | 2026-04-17 |
+| **DOI** | [10.1038/s41557-026-02136-3](https://doi.org/10.1038/s41557-026-02136-3) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Chemistry, Published online: 17 April 2026;  doi:10.1038/s41557-026-02136-3 Single-crystalline two-dimensional poly(arylene vinylene) frameworks are emerging as promising materials for electronic and photocatalytic applications. Now, a Mannich-elimination strategy enables their synthesis via topological conversion of imine covalent organic frameworks. Preserving lattice order during the linkage transformation is key for achieving enhanced conjugation and robust electronic performance.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
 ## Nature Communications
 
 *（当日无相关文章，以下为近期精选）*
@@ -346,22 +414,52 @@ Nature Energy, Published online: 17 April 2026;  doi:10.1038/s41560-026-02035-4 
 ---
 ## Nature Materials
 
-*（未找到相关文章）*
+*（当日无相关文章，以下为近期精选）*
 
+### 1. The data-only illusion in materials discovery
+
+> **The data-only illusion in materials discovery**
+
+| | |
+|---|---|
+| **期刊** | Nature Materials |
+| **作者** | Berend Smit, Susana Garcia |
+| **日期** | 2026-04-17 |
+| **DOI** | [10.1038/s41563-026-02578-7](https://doi.org/10.1038/s41563-026-02578-7) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Materials, Published online: 17 April 2026;  doi:10.1038/s41563-026-02578-7 Artificial intelligence may have transformed image and language generation, but in materials science, data scarcity and synthesis complexity demand a different approach. Only by coupling artificial intelligence with deep chemical insight can we turn virtual predictions into real materials.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
 ## Nature Nanotechnology
 
 *（当日无相关文章，以下为近期精选）*
 
-### 1. Printed MoS2 memristive nanosheet networks for spiking neurons with multi-order complexity
+### 1. Louis E. Brus (1943–2026)
 
-> **Printed MoS2 memristive nanosheet networks for spiking neurons with multi-order complexity**
+> **Louis E. Brus (1943–2026)**
 
 | | |
 |---|---|
 | **期刊** | Nature Nanotechnology |
-| **作者** | Shreyash S. Hadke, Carol N. Klingler, Spencer T. Brown, Meghana Holla et al. |
-| **日期** | 2026-04-15 |
-| **DOI** | [10.1038/s41565-026-02149-6](https://doi.org/10.1038/s41565-026-02149-6) |
+| **作者** | Gordana Dukovic |
+| **日期** | 2026-04-16 |
+| **DOI** | [10.1038/s41565-026-02157-6](https://doi.org/10.1038/s41565-026-02157-6) |
 
 **🔑 核心价值**：（暂无）
 
@@ -422,16 +520,80 @@ Nature Sustainability, Published online: 17 April 2026;  doi:10.1038/s41893-026-
 ---
 ## Nature Synthesis
 
-*（未找到相关文章）*
+*（当日无相关文章，以下为近期精选）*
 
+### 1. Angle-strained cycloalkyne-mediated carbonyl 1,2-transposition
+
+> **Angle-strained cycloalkyne-mediated carbonyl 1,2-transposition**
+
+| | |
+|---|---|
+| **期刊** | Nature Synthesis |
+| **作者** | Kanlei Ji, Yuxiang Liao, Shenao Deng, Zhao Wu |
+| **日期** | 2026-04-17 |
+| **DOI** | [10.1038/s44160-026-01059-8](https://doi.org/10.1038/s44160-026-01059-8) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Synthesis, Published online: 17 April 2026;  doi:10.1038/s44160-026-01059-8 A strain-release-driven, one-pot carbonyl 1,2-transposition of ubiquitous cyclic ketones is reported. This operationally simple method leverages highly strained cycloalkyne intermediates generated in situ, enabling broad substrate scope and late-stage structural editing of natural products and pharmaceuticals.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
 ## Nature Water
 
 *（未找到相关文章）*
 
 ## Science
 
-*（未找到相关文章）*
+*（当日无相关文章，以下为近期精选）*
 
+### 1. Ferroelectricity in atomic-scale titanium dioxide dielectric films
+
+> **Ferroelectricity in atomic-scale titanium dioxide dielectric films**
+
+| | |
+|---|---|
+| **期刊** | Science |
+| **作者** | Koushik Das, Kate Reidy, Sajid Husain, Jong Ho Park et al. |
+| **日期** | 2026-04-16 |
+| **DOI** | [10.1126/science.aec9417](https://doi.org/10.1126/science.aec9417) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Ferroelectricity at atomic-scale thickness would have important applications in next-generation electronics. Here, we report that a ferroelectric phase can be stabilized in titanium dioxide (TiO
+                     2 
+                    ) films, a commonly known dielectric that is widely used in semiconductor technologies, by reducing thickness to <3 nanometers. Importantly, this ferroelectricity persists down to 1-nanometer thickness, approximately twice the unit-cell dimension. This thickness-dependent dielectric-to-ferroelectric phase transition demonstrates that an otherwise centrosymmetric, nonferroic fluorite-structure oxide can undergo structural inversion-symmetry breaking and exhibit voltage-switchable polarization. Atomic layer deposition–based low-temperature (<400°C) synthesis and the stability of this ferroelectricity on both silicon (Si) and amorphous surfaces [such as amorphous silicon dioxide (SiO
+                     2 
+                    ) and amorphous carbon films] demonstrate the feasibility of integration with a large variety of materials.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
 ## Science Advances
 
 *（当日无相关文章，以下为近期精选）*
