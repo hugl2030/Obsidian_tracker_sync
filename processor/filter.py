@@ -37,12 +37,31 @@ def _build_patterns(topics: dict[str, list[str]]) -> list[re.Pattern]:
     return patterns
 
 
+# Journals that are already topic-specific — show all papers without filtering
+_UNFILTERED_JOURNALS = {
+    "Nature Materials",
+    "Nature Energy",
+    "Nature Nanotechnology",
+    "Nature Synthesis",
+    "Nature Chemistry",
+    "ACS Energy Letters",
+    "Nano Letters",
+    "Advanced Materials",
+}
+
+
 def matches_topics(paper: "Paper", patterns: list[re.Pattern]) -> bool:
-    """Return True if the paper title or abstract matches any keyword."""
-    haystack = paper.title + " " + paper.abstract
+    """Return True if the paper TITLE matches any keyword.
+    Abstract is used as secondary fallback only when title is very short."""
+    # Title-only match (primary)
     for pat in patterns:
-        if pat.search(haystack):
+        if pat.search(paper.title):
             return True
+    # Fallback to abstract only if title is uninformative (<6 words)
+    if len(paper.title.split()) < 6 and paper.abstract:
+        for pat in patterns:
+            if pat.search(paper.abstract):
+                return True
     return False
 
 
@@ -50,7 +69,22 @@ def filter_papers(
     papers: list["Paper"],
     topics: dict[str, list[str]],
 ) -> list["Paper"]:
-    """Filter a list of papers to those matching the topic keywords."""
+    """Filter papers by topic keywords.
+
+    For topic-specific journals (e.g. Nature Energy), all papers are included
+    without keyword filtering since the journal itself is the topic filter.
+    For general journals (Nature, Science, JACS...), title keyword matching is used.
+    """
+    if not papers:
+        return []
+
+    # Topic-specific journals: return all papers
+    journal_name = papers[0].journal
+    if journal_name in _UNFILTERED_JOURNALS:
+        logger.info("Filter: %d / %d papers (unfiltered journal: %s)",
+                    len(papers), len(papers), journal_name)
+        return papers
+
     patterns = _build_patterns(topics)
     matched = [p for p in papers if matches_topics(p, patterns)]
     logger.info("Filter: %d / %d papers matched topics", len(matched), len(papers))

@@ -291,21 +291,23 @@ def fetch_papers_for_journal(
 
     # Step 2: CrossRef for exact date
     if not papers:
+        time.sleep(1.0)
         papers = _fetch_crossref(journal_cfg, target_date, target_date, max_rows=50)
         logger.info("[%s] CrossRef exact → %d papers", name, len(papers))
-        time.sleep(0.5)  # CrossRef rate-limit courtesy
 
     # Step 3: Widen window
     if not papers:
+        time.sleep(2.0)
         fallback_from = target_date - timedelta(days=fallback_days)
         papers = _fetch_crossref(journal_cfg, fallback_from, target_date, max_rows=100)
         logger.info("[%s] CrossRef fallback (%dd) → %d papers", name, fallback_days, len(papers))
-        time.sleep(0.5)
 
     # Enrich abstracts (best-effort, only for short abstracts)
     enriched = []
-    for p in papers[:60]:  # Cap to avoid too many API calls
+    for idx, p in enumerate(papers[:40]):  # Cap to avoid too many API calls
         if len(p.abstract) < 50:
+            if idx > 0:
+                time.sleep(1.0)  # Respect CrossRef rate limit (1 req/sec)
             p = _enrich_abstract(p)
         enriched.append(p)
 
