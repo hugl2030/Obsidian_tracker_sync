@@ -1,15 +1,15 @@
 ---
-date: 2026-10-10
+date: 2026-10-11
 type: journal-digest
 topics: [battery, microscopy, 2D-materials, materials]
 ---
 
-# 📰 期刊每日速递 · 2026-10-10
+# 📰 期刊每日速递 · 2026-10-11
 
 > 涵盖期刊：Nature 系列 · Science 系列 · ACS · Wiley
 > 话题：电池 · 电子显微镜 · 二维材料 · 材料科学
 
-> 本期共收录 **34** 篇，覆盖 **17** 个期刊。
+> 本期共收录 **32** 篇，覆盖 **17** 个期刊。
 
 ---
 
@@ -79,24 +79,26 @@ Abstract
 ---
 ## Advanced Materials
 
-### 1. Vacancy‐Associated La–Ir Pairs Enable Water‐Derived Oxygen‐Hydroxyl Coupling for Durable Low‐Ir PEM Water Electrolysis
+### 1. Dual‐Encrypted Ultraviolet Optical Communication Driven by Opto‐Piezoelectric Coupling in Two‐Dimensional Flexible Ferroelectric Single‐Crystalline Thin‐Films
 
-> **空位相关的La–Ir对实现水衍生氧羟耦合，实现耐用的低Ir PEM水电解**
+> **由二维柔性铁电单晶薄膜中的光压电耦合驱动的双加密紫外光通信**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Yong Gao, 
-Yunyun Xu, 
-Lingjie Yuan, 
-Zhenwen Yu, 
-Mengyue Liu, 
-Ruize Xu, 
-Kun Chang, 
-Yinlong Zhu, 
-Zhong‐Shuai Wu |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1002/adma.75352](https://doi.org/10.1002/adma.75352) |
+| **作者** | Hang Li, 
+Yao Li, 
+Qianwen Guan, 
+Ji Qi, 
+Chengmin Ji, 
+Huang Ye, 
+Zhenyue Wu, 
+Chengshu Zhang, 
+Lijun Xu, 
+Haiqing Zhong, 
+Junhua Luo |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/adma.75320](https://doi.org/10.1002/adma.75320) |
 
 **🔑 核心价值**：（暂无）
 
@@ -117,23 +119,24 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 2. Biomaterial‐Based Controlled Release Systems for Spinal Cord Remyelination
+### 2. Spatially Decoupled Cascade Oxygen Reduction on Bi Single‐Atom and Cluster‐Hybrid Sites for Hydroxyl Radical Generation
 
-> **用于脊髓再髓鞘形成的基于生物材料的受控释放系统**
+> **用于生成羟基自由基的Bi单原子和Cluster混合位点上的空间解耦级联氧还原**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | E. Petillo, 
-V. Veneruso, 
-E. Frigerio, 
-F. Ghirardi, 
-G. Nunziata, 
-Z. Giorgi, 
-F. Rossi, 
-P. Veglianese |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1002/adma.75202](https://doi.org/10.1002/adma.75202) |
+| **作者** | Lixu Wu, 
+Zhiming Wang, 
+Chao Miao, 
+Yanguang Yang, 
+Nan Hu, 
+Haiyu Wang, 
+Yan Li, 
+Yongxin Zhou, 
+Guohua Zhao |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/adma.75366](https://doi.org/10.1002/adma.75366) |
 
 **🔑 核心价值**：（暂无）
 
@@ -154,21 +157,28 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 3. Artificial Regulatory T Cells Orchestrate Phase‐Spanning Regeneration in Refractory Tissue Injuries
+### 3. Sustained‐Release Regulation on FAPbI3 Crystallization to Enhance Photo‐Thermal Stability of Perovskite Solar Cells
 
-> **人工调节性T细胞在难治性组织损伤中协调跨期再生**
+> **FAPbI3结晶的持续释放法规，以提高钙钛矿太阳能电池的光热稳定性**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Bo Li, 
-Jiale Li, 
-Guowei Zhang, 
-Cheng Li, 
-Denghui Xie, 
-Jun Deng |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1002/adma.75362](https://doi.org/10.1002/adma.75362) |
+| **作者** | Rui Zhang, 
+Xiangjin Du, 
+Hongkun Wei, 
+Yiming Li, 
+Chengyu Tan, 
+Yingxin Ma, 
+Shiyu Jiang, 
+Yuqi Cui, 
+Huijue Wu, 
+Jiangjian Shi, 
+Yanhong Luo, 
+Dongmei Li, 
+Qingbo Meng |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/adma.75359](https://doi.org/10.1002/adma.75359) |
 
 **🔑 核心价值**：（暂无）
 
@@ -191,27 +201,33 @@ Advanced Materials, EarlyView.
 ---
 ## Angewandte Chemie
 
-### 1. V─O─Ti Bridge‐Bond Polarity Boosts Na+ Migration in V‐Based Fluorophosphates for Fast Sodium Storage
+### 1. Synergistic Regulation of High Dielectric Constant and H‐Aggregation for Efficient and Thickness‐Tolerant Organic Solar Cells
 
-> **V ─O─ Ti桥键极性促进V基氟磷酸盐中的Na +迁移，实现快速钠储存**
+> **高效耐厚有机太阳能电池的高介电常数和H-聚集的协同调节**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Bochao Chen, 
-Ruihan Wang, 
-Yifei Liu, 
-Yuan Feng, 
-Jiahao Wang, 
-Changjie Kan, 
-Boyuan Li, 
-Lin Wang, 
-Weiwei Xie, 
-Kai Zhang, 
-Jun Chen, 
-Zhenhua Yan |
-| **日期** | 2026-10-11 |
-| **DOI** | [10.1002/anie.6142534](https://doi.org/10.1002/anie.6142534) |
+| **作者** | Peng Zhang, 
+Yunhan Gao, 
+Linsen Li, 
+Shuai Xu, 
+Shuhan Yang, 
+Youdi Zhang, 
+Meifang Zhang, 
+Nan Ye, 
+Lixue Zhu, 
+Tao Jia, 
+Sha Liu, 
+Zicheng Ding, 
+Hongxiang Li, 
+Lei Zhu, 
+Qing Jiang, 
+Tonghui Wang, 
+Changduk Yang, 
+Yiwang Chen |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/anie.2077291](https://doi.org/10.1002/anie.2077291) |
 
 **🔑 核心价值**：（暂无）
 
@@ -232,26 +248,18 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 2. Resolving the Sensitivity–Specificity Trade‐Off in Fluorescent Probes via a Tandem‐Activatable Shielding Strategy
+### 2. An IscS Persulfide Donates the Sulfur for Ribosomal Protein uL16 Thioamidation
 
-> **通过串联可激活屏蔽策略解决荧光探针的灵敏度-特异性折衷**
+> **IscS过硫化物为核糖体蛋白uL16硫酰胺化提供硫**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Lidong Du, 
-Haoran Ma, 
-Wenshan Yan, 
-Hanchen Shen, 
-Qingqing Zhou, 
-Moxin Li, 
-Manxiong Dai, 
-Dongfeng Dang, 
-Ruiyu Xie, 
-Tzu‐Ming Liu, 
-Changhuo Xu |
-| **日期** | 2026-10-11 |
-| **DOI** | [10.1002/anie.9882356](https://doi.org/10.1002/anie.9882356) |
+| **作者** | Yanqing Xue, 
+Markus W. Voehler, 
+Douglas A. Mitchell |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/anie.2523475](https://doi.org/10.1002/anie.2523475) |
 
 **🔑 核心价值**：（暂无）
 
@@ -272,32 +280,22 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 3. Programming Hydrophobic Nanocavity of DNA Frameworks for Ultrastable Fluorescent Imaging
+### 3. UV/X‐Ray‐Induced Reduction of Eu3+ to Eu2+ in Rare‐Earth‐Based Halide Double Perovskite for Material‐Discriminative X‐Ray Imaging
 
-> **用于超稳定荧光成像的DNA框架的疏水性纳米腔编程**
+> **用于材料鉴别X射线成像的稀土卤化物双钙钛矿中的UV/X射线诱导Eu3 +至Eu2 +还原**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Tingting Zhai, 
-Lingyu Feng, 
-Xinyi Cheng, 
-Sicheng Lin, 
-Xiaodong Xie, 
-Haoran Zheng, 
-Cong Li, 
-Zhibei Qu, 
-Chengpin Liang, 
-Bin Chen, 
-Lifeng Xu, 
-Xiaoguo Liu, 
-Fei Wang, 
-Lihua Wang, 
-Jiang Li, 
-Chunhai Fan, 
-Jianlei Shen |
-| **日期** | 2026-10-11 |
-| **DOI** | [10.1002/anie.9068292](https://doi.org/10.1002/anie.9068292) |
+| **作者** | Mingxing Li, 
+Shuanglai Liu, 
+Wenwu You, 
+Huafang Zhang, 
+Huimin Zhang, 
+Gencai Pan, 
+Yanli Mao |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1002/anie.3151373](https://doi.org/10.1002/anie.3151373) |
 
 **🔑 核心价值**：（暂无）
 
@@ -320,22 +318,20 @@ Angewandte Chemie International Edition, EarlyView.
 ---
 ## JACS
 
-### 1. Cesium-Induced Stabilization
-of the FeOOH Cocatalyst
-on Bismuth Vanadate Photoanode for Ultraefficient and Stable Photoelectrochemical
-Water Oxidation
+### 1. Wavelength-Selective
+Magneto-Optical Diodes Based
+on Rare-Earth Chiral Molecular Crystals
 
-> **铯诱导的稳定
-feOOH助催化剂
-用于超高效和稳定光电化学的钒酸铋光电阳极
-水氧化**
+> **波长选择性
+基于磁光二极管
+稀土手性分子晶体**
 
 | | |
 |---|---|
 | **期刊** | JACS |
-| **作者** | Wenchao Jiang, Yange Ma, Ying Tao, Haochuan Jing et al. |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1021/jacs.6c12237](https://doi.org/10.1021/jacs.6c12237) |
+| **作者** | Inkarat Atirojwanich, Maxime Aragon-Alberti, Langit Cahya Adi, Kevin Paillot et al. |
+| **日期** | 2026-10-11 |
+| **DOI** | [10.1021/jacs.6c14062](https://doi.org/10.1021/jacs.6c14062) |
 
 **🔑 核心价值**：（暂无）
 
@@ -345,7 +341,7 @@ feOOH助催化剂
 <summary>📄 英文摘要</summary>
 
 Abstract 
-                   Developing active and durable water oxidation cocatalysts is essential for advancing photoelectrochemical (PEC) water-splitting systems. This study investigates the cesium-induced reconstruction of the FeOOH cocatalyst on a bismuth vanadate (BVO) photoanode for the water oxidation reaction, with a focus on the reconstruction process and its effect in improving interfacial charge transfer and photostability. Cesium ions induce the reconstruction of Fe species on the BVO/FeOOH photoanode during the PEC process, leading to the formation of a robust Cs-incorporated FeOOH (Cs:FeOOH) catalytic layer. Spectroscopic analysis combined with open-circuit potential measurement reveals that the in situ formed Cs:FeOOH cocatalyst can effectively protect BVO and promote interfacial hole transfer during PEC operation. As a result, the BVO/Cs:FeOOH photoanode achieves a photocurrent density of 6.29 mA cm–2 at 1.23 V vs. RHE and maintains stable operation for over 100 h. Furthermore, the Cs-incorporated FeOOH cocatalyst strategy can be extended to other semiconductor systems, including TiO2 and FeOx, highlighting its broader potential for improving solar-driven PEC water oxidation.
+                   Chiral materials, integrating structural breaking of mirror-symmetry, exhibit physical properties that cannot be observed in centrosymmetric analogues. Among these properties, optical magneto-chiral anisotropy, the nonreciprocal absorption of light shown by chiral magnetized systems, is emerging as an enabling technology in magneto-optics and photonics. Here, we report on enantiopure chiral molecular crystals based on the erbium(III) rare-earth ion that display nonreciprocal, wavelength-selective, magnetic field-induced variations of the optical absorption coefficients up to ca. 200% for the intrashell f–f electronic transition falling in the 1.5 μm telecom wavelength range. Such a response is associated with an exceptionally high Magneto-Chiral Dichroism induced by the strong spin–orbit coupling of the Er(III) and the helical chirality at the lanthanide center, exalted by the magnetic-dipole-allowed character of the electronic transition. This chirality-induced nonreciprocal magneto-optical response represents a proof of concept for the use of these chiral crystalline molecular materials as potential components in magneto-optical diodes.
 
 </details>
 
@@ -357,20 +353,18 @@ Abstract
 </details>
 
 ---
-### 2. Birch-Type-Reduced
-Carbazole Anions Enable Redox-Adaptive
-Super-Reducing Photocatalysis
+### 2. An Atomic-Scale
+Chemical Switch for Oxide Ferroelectricity
 
-> **Birch-Type-Reduced
-咔唑阴离子启用氧化还原适应性
-超还原光催化**
+> **原子尺度
+氧化物铁电化学开关**
 
 | | |
 |---|---|
 | **期刊** | JACS |
-| **作者** | Yi-Ming Chen, Yu Liu, Zhi-Ao Tian, Ming-Xuan Gao et al. |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1021/jacs.6c12007](https://doi.org/10.1021/jacs.6c12007) |
+| **作者** | Junjie Ding, Wenjun Lv, Wenjun Cui, Zaichun Sun et al. |
+| **日期** | 2026-10-11 |
+| **DOI** | [10.1021/jacs.6c14373](https://doi.org/10.1021/jacs.6c14373) |
 
 **🔑 核心价值**：（暂无）
 
@@ -380,42 +374,7 @@ Super-Reducing Photocatalysis
 <summary>📄 英文摘要</summary>
 
 Abstract 
-                   Photocatalytic activation of inert chemical bonds is constrained by the redox potential of the catalyst. Here, we report a redox-adaptive photocatalytic strategy in which an electron-rich carbazole photocatalyst, CBZ6, functions as a molecular redox transformer through the formation of Birch-type carbazole anions. Under visible light, CBZ6 switches between a neutral state for conventional photoredox reactions and an anionic state for super-reducing catalysis. Excitation of the anionic state generates a super-reducing species with an excited-state oxidation potential of approximately −3.6 V versus SCE, substantially beyond that of the neutral excited state (−2.2 V). This adaptive redox switching enables activation of otherwise inaccessible C–F bonds in aryl fluorides, polyfluoroalkyl compounds, and fluoropolymers. The complementary reactivities of the two states further enable diverse photoredox transformations, establishing redox adaptation as a strategy for expanding the accessible reactivity of organic photocatalysts.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Deciphering Interheme
-Electron-Transfer Pathways in
-a Diheme Peroxidase from Methane-Oxidizing Bacteria
-
-> **解密血红素间化合物
-中的电子转移途径
-甲烷氧化细菌的双血红素过氧化物酶**
-
-| | |
-|---|---|
-| **期刊** | JACS |
-| **作者** | Riley E. Stein, Anastasia C. Manesis |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1021/jacs.6c13740](https://doi.org/10.1021/jacs.6c13740) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Bis-FeIV-forming enzymes represent an emerging paradigm in high-valent heme iron chemistry, in which two hemes separated by 15–20 Å are both oxidized to the FeIV state. A tryptophan positioned between the two hemes in two out of the three known enzymes to form this state, MauG and MbnH, has been proposed as the dominant pathway for interheme electron transfer. .The third enzyme, BthA, instead has a serine at this position. Here, we used site-directed mutagenesis of Trp113 in MbnH to test whether this tryptophan is uniquely required for interheme electron transfer. Computational pathway analysis identified the possibility of an alternative, noncovalent route mediated by Arg283 and a heme propionate with possible electronic coupling comparable to that of the native tryptophan pathway. Consistent with this prediction, only simultaneous disruption of both the tryptophan and propionate-mediated pathways abolished bis-FeIV formation entirely. Moreover, only mutants capable of forming bis-FeIV retained the ability to turnover substrate, directly establishing this high-valent state as the catalytic intermediate responsible for substrate modification. These results demonstrate that an intervening tryptophan is not required for fast interheme electron transfer, and instead reveal an additional, noncovalent pathway that may be a general feature of diheme peroxidases.
+                   Interfacial chemistry offers new opportunities for designing ferroelectric materials, yet their coupling with intrinsic polarization remains largely unexplored. Here, we synthesize ferroelectric BiFeO3 nanoparticles with {100} facets covered by a Bi2FeO6-x Aurivillius-like phase, allowing the interfacial Bi2O2 layer to interact with bulk polarization at different relative orientations. Using atomic-resolution scanning transmission electron microscopy, we observed a large polarization enhancement when the interface aligned with the bulk polarization, and a polarization reversal when opposing it. In situ heating and first-principles calculations show that the Bi2O2 layer repels the underlying FeO6 octahedra, which either rotate or rigidly displace to accommodate the chemical stress, depending on local geometry. Moreover, this mechanism can imprint local polarization in Aurivillius phases and nonferroelectric oxides, offering a general route to design polar topologies in oxide heterostructures.
 
 </details>
 
@@ -538,16 +497,16 @@ Abstract
 ---
 ## Nature
 
-### 1. Breaking down nerve-cell scaffold relieves chronic pain in mice
+### 1. Award-winning microscopy image disqualified over AI use
 
-> **分解神经细胞支架可缓解小鼠的慢性疼痛**
+> **屡获殊荣的显微镜图像因使用人工智能而被取消资格**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | N/A |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/d41586-026-03159-z](https://doi.org/10.1038/d41586-026-03159-z) |
+| **作者** | Rachel Fieldhouse |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/d41586-026-03240-7](https://doi.org/10.1038/d41586-026-03240-7) |
 
 **🔑 核心价值**：（暂无）
 
@@ -556,7 +515,7 @@ Abstract
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03159-z Results could help researchers to develop painkillers that are safer and more effective than existing treatments.
+Nature, Published online: 12 October 2026;  doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.
 
 </details>
 
@@ -568,16 +527,16 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03159-z Resul
 </details>
 
 ---
-### 2. Briefing Chat: Top researchers are being misled by sham academic societies
+### 2. Author Correction: Timing and trajectory of  BCR::ABL1 -driven chronic myeloid leukaemia
 
-> **简报聊天：顶尖研究人员被虚假学术团体误导**
+> **作者更正： BCR的时机和轨迹:: ABL1驱动的慢性粒细胞白血病**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | Benjamin Thompson, Max Kozlov |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/d41586-026-03216-7](https://doi.org/10.1038/d41586-026-03216-7) |
+| **作者** | Aleksandra E. Kamizela, Daniel Leongamornlert, Nicholas Williams, Xin Wang et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41586-026-11253-5](https://doi.org/10.1038/s41586-026-11253-5) |
 
 **🔑 核心价值**：（暂无）
 
@@ -586,7 +545,7 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03159-z Resul
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03216-7 Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.
+Nature, Published online: 12 October 2026;  doi:10.1038/s41586-026-11253-5 Author Correction: Timing and trajectory of  BCR::ABL1 -driven chronic myeloid leukaemia
 
 </details>
 
@@ -598,16 +557,16 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03216-7 Natur
 </details>
 
 ---
-### 3. Chimp and gorilla brains resist weight loss with age — unlike human brains
+### 3. Keep medical doctors in academia — without them, health-care research will suffer
 
-> **黑猩猩和大猩猩的大脑随着年龄的增长而抵制体重减轻—与人类大脑不同**
+> **让医生留在学术界—没有他们，医疗保健研究将受到影响**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | N/A |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/d41586-026-03158-0](https://doi.org/10.1038/d41586-026-03158-0) |
+| **作者** | Daniyal J. Jafree, Mingze Sun, Gordon W. Stewart, Áine Burns et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/d41586-026-03225-6](https://doi.org/10.1038/d41586-026-03225-6) |
 
 **🔑 核心价值**：（暂无）
 
@@ -616,7 +575,7 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03216-7 Natur
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03158-0 The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life
+Nature, Published online: 12 October 2026;  doi:10.1038/d41586-026-03225-6 Better career support and more funding stability is needed to retain this invaluable group of scientists.
 
 </details>
 
@@ -630,9 +589,11 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03158-0 The r
 ---
 ## Nature Chemistry
 
-### 1. Reversible Sn 4+ /Sn 0  anode for high-energy-density flow batteries
+*（当日无相关文章，以下为近期精选）*
 
-> **用于高能量密度液流电池的可逆Sn 4 +/Sn 0阳极**
+### 1. Reversible Sn4+/Sn0 anode for high-energy-density flow batteries
+
+> **用于高能量密度液流电池的可逆Sn4 +/Sn0阳极**
 
 | | |
 |---|---|
@@ -648,7 +609,7 @@ Nature, Published online: 09 October 2026;  doi:10.1038/d41586-026-03158-0 The r
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Chemistry, Published online: 09 October 2026;  doi:10.1038/s41557-026-02275-7 Tin-based aqueous flow batteries offer high-capacity anodes due to the potential four-electron redox reactions, but irreversible Sn4+/Sn2+ electrochemistry has hindered battery development. Now it has been shown that iodide-mediated intermediate complexes enable reversible Sn4+/Sn2+ conversion and four-electron Sn4+/Sn0 chemistry, yielding a high anolyte energy density and stable long-term operation.
+（暂无）
 
 </details>
 
@@ -662,16 +623,16 @@ Nature Chemistry, Published online: 09 October 2026;  doi:10.1038/s41557-026-022
 ---
 ## Nature Communications
 
-### 1. Long-term nitrous acid evolution modulates ozone and secondary aerosol variations in global megacities
+### 1. Continuous-time noise mitigation in analogue quantum simulation
 
-> **长期亚硝酸演化调节全球特大城市的臭氧和次生气溶胶变化**
+> **模拟量子仿真中的连续时间噪声抑制**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Xuan Li, Can Ye, Huabin Dong, Xuezhen Xu et al. |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1038/s41467-026-78349-4](https://doi.org/10.1038/s41467-026-78349-4) |
+| **作者** | Gabriele Bressanini, Yue Ma, Michael Hanks, Hyukjoon Kwon et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41467-026-78310-5](https://doi.org/10.1038/s41467-026-78310-5) |
 
 **🔑 核心价值**：（暂无）
 
@@ -680,7 +641,7 @@ Nature Chemistry, Published online: 09 October 2026;  doi:10.1038/s41557-026-022
 <details>
 <summary>📄 英文摘要</summary>
 
-（暂无）
+Nature Communications, Published online: 12 October 2026;  doi:10.1038/s41467-026-78310-5 Mitigating errors in analogue quantum simulators - that is, reducing noise-induced bias in expectation values - would greatly improve their operation and scalability. Here, the authors propose a time-continuous error cancellation protocol, based on introducing an auxiliary system and engineering the joint dissipation of the new, extended system.
 
 </details>
 
@@ -692,16 +653,16 @@ Nature Chemistry, Published online: 09 October 2026;  doi:10.1038/s41557-026-022
 </details>
 
 ---
-### 2. Preserved higher-order mentalising during strategic interactions after medial prefrontal cortex damage
+### 2. Block-fitness modeling of the global air mobility network
 
-> **在内侧前额叶皮质损伤后，在战略互动期间保持高阶心理状态**
+> **全球空中交通网络的区块健身建模**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Yi-Chen Hsieh, Arkady Konovalov, Zhi-Lin Su, Todd A. Vogel et al. |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1038/s41467-026-77235-3](https://doi.org/10.1038/s41467-026-77235-3) |
+| **作者** | Giulia Fischetti, Anna Mancini, Giulio Cimini, Jessica T. Davis et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41467-026-78115-6](https://doi.org/10.1038/s41467-026-78115-6) |
 
 **🔑 核心价值**：（暂无）
 
@@ -710,8 +671,7 @@ Nature Chemistry, Published online: 09 October 2026;  doi:10.1038/s41557-026-022
 <details>
 <summary>📄 英文摘要</summary>
 
-Abstract 
-                   Mentalising, the ability to infer the beliefs and intentions of others, is essential for successful social interaction. Previous studies have implicated the medial prefrontal cortex in mentalising, but whether this region is necessary for higher-order mentalising remains unclear. Here we show that people with focal damage to the medial prefrontal cortex retain the ability to engage in higher-order mentalising during a strategic social game. We compare their performance with patients with brain damage in other regions and lesion-free participants. Individuals with medial prefrontal cortex damage achieve similar rewards and use comparable mentalising strategies, but they are slower when making strategic decisions. Computational modelling indicates that this slowing reflects a greater tendency to require evidence before committing to a choice. Voxel-based lesion-symptom mapping identifies medial prefrontal regions linked to altered decision processes rather than mentalising. These findings suggest that the medial prefrontal cortex supports strategic decisions while higher-order mentalising remains intact.
+Nature Communications, Published online: 12 October 2026;  doi:10.1038/s41467-026-78115-6 Origin-destination data on air travel are essential for studying global mobility and epidemic risk but are often proprietary. Here, authors introduce a maximum-entropy network method that reconstructs air passenger flows from open data and enables accurate reproduction of epidemic dynamics.
 
 </details>
 
@@ -723,16 +683,16 @@ Abstract
 </details>
 
 ---
-### 3. Fruit-eating adaptations in a Late Cretaceous oviraptorosaur (Theropoda)
+### 3. Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems
 
-> **晚白垩世猛卵龙（ Theropoda ）的食果适应**
+> **作者更正： UNCOVERseq可在CRISPR-Cas模式和系统中实现敏感和受控的基因编辑脱靶提名**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Gregory F. Funston, Thomas W. Dudgeon, D. Jade Simon, Danielle M. Dufault et al. |
-| **日期** | 2026-10-10 |
-| **DOI** | [10.1038/s41467-026-78343-w](https://doi.org/10.1038/s41467-026-78343-w) |
+| **作者** | Kyle J. Kinney, Kun Jia, He Zhang, Ellen Schmaljohn et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41467-026-78544-3](https://doi.org/10.1038/s41467-026-78544-3) |
 
 **🔑 核心价值**：（暂无）
 
@@ -741,13 +701,7 @@ Abstract
 <details>
 <summary>📄 英文摘要</summary>
 
-Abstract 
-                   
-                    The diversification of herbivorous dinosaurs and the rise of angiosperms in the Late Cretaceous are each well established, but the link between them is debated. Broad-scale diversity patterns in the two groups appear not to closely align, and there is no direct evidence of dinosaur adaptation to angiosperm-based diets. Here we describe
-                     Infernogallus jamesi 
-                    gen. et. sp. nov., a diminutive caenagnathid oviraptorosaur, and show that these theropods were specialised herbivores that originated alongside the rise of fleshy angiosperm fruits. The nearly complete, articulated skull of
-                     Infernogallus jamesi 
-                    —the first for the clade—reveals drastic changes to the adductor musculature organisation, unique in non-avian theropods but converged upon by extant frugivorous parrots. These modifications enabled extensive oral processing of soft food using anteroposterior movement of the mandible and occlusion of ridges and grooves on opposed elements. Altogether, this attests to a highly specialised herbivorous diet in caenagnathids, which likely consisted in large part of fleshy angiosperm fruits, which increased in size and diversity in concert with the radiation of oviraptorosaurs. Caenagnathids thus provide one of the strongest candidates for angiosperm-based diet adaptations in dinosaurs, but their role in the Late Cretaceous proliferation of fruit—which shaped early Cenozoic flora—remains unclear.
+Nature Communications, Published online: 12 October 2026;  doi:10.1038/s41467-026-78544-3 Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems
 
 </details>
 
@@ -795,16 +749,16 @@ Abstract
 ---
 ## Nature Materials
 
-### 1. Taking the heat off tantalum
+### 1. Molecular weaving goes multilevel
 
-> **带走钽的热量**
+> **分子编织走向多层次**
 
 | | |
 |---|---|
 | **期刊** | Nature Materials |
-| **作者** | Tae Gyu Ahn, Alp Sipahigil |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/s41563-026-02766-5](https://doi.org/10.1038/s41563-026-02766-5) |
+| **作者** | Zhenwei Zhang, Hai-Long Jiang |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41563-026-02770-9](https://doi.org/10.1038/s41563-026-02770-9) |
 
 **🔑 核心价值**：（暂无）
 
@@ -813,7 +767,7 @@ Abstract
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Materials, Published online: 09 October 2026;  doi:10.1038/s41563-026-02766-5 Krypton-assisted growth of low-loss α-phase tantalum on silicon stays within back-end-of-line semiconductor thermal budgets while delivering state-of-the-art qubit coherence.
+Nature Materials, Published online: 12 October 2026;  doi:10.1038/s41563-026-02770-9 Integrating distinct weaving topologies within a single molecular network creates coupled deformation modes and adaptive adsorption behaviour, pointing to a shift from constructing molecular topologies to exploiting them for functions.
 
 </details>
 
@@ -861,16 +815,16 @@ Nature Materials, Published online: 09 October 2026;  doi:10.1038/s41563-026-027
 ---
 ## Nature Physics
 
-### 1. Orthorhombic ice
+### 1. Morphogenesis of a stratified cell mound at a vortex defect
 
-> **斜方冰**
+> **涡旋缺陷处分层细胞堆的形态发生**
 
 | | |
 |---|---|
 | **期刊** | Nature Physics |
-| **作者** | Lishu Wu |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/s41567-026-03502-1](https://doi.org/10.1038/s41567-026-03502-1) |
+| **作者** | Hsiang-Ying Chen, Carles Blanch-Mercader, Caroline Giuglaris, Jacques Prost et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41567-026-03427-9](https://doi.org/10.1038/s41567-026-03427-9) |
 
 **🔑 核心价值**：（暂无）
 
@@ -879,7 +833,7 @@ Nature Materials, Published online: 09 October 2026;  doi:10.1038/s41563-026-027
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03502-1 Orthorhombic ice
+Nature Physics, Published online: 12 October 2026;  doi:10.1038/s41567-026-03427-9 In cell monolayers with a vortex-like orientation defect, cells converge towards the core of the defect and form a highly organized three-dimensional mound. This mechanism may be relevant for morphogenesis and tumorigenesis.
 
 </details>
 
@@ -891,16 +845,16 @@ Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03502
 </details>
 
 ---
-### 2. Lift from the flow
+### 2. Chip-mediated manipulation of photonic quantum skyrmions
 
-> **从水流中提升**
+> **芯片介导的光子量子Skyrmions操作**
 
 | | |
 |---|---|
 | **期刊** | Nature Physics |
-| **作者** | Debarchan Das |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/s41567-026-03500-3](https://doi.org/10.1038/s41567-026-03500-3) |
+| **作者** | Haoqi Zhao, Yichi Zhang, Isaac Nape, Shuang Wu et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s41567-026-03487-x](https://doi.org/10.1038/s41567-026-03487-x) |
 
 **🔑 核心价值**：（暂无）
 
@@ -909,37 +863,7 @@ Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03502
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03500-3 Lift from the flow
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Active wetting of an implanting embryo
-
-> **植入胚胎的主动润湿**
-
-| | |
-|---|---|
-| **期刊** | Nature Physics |
-| **作者** | Elizaveta Dubrovina |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/s41567-026-03501-2](https://doi.org/10.1038/s41567-026-03501-2) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03501-2 Active wetting of an implanting embryo
+Nature Physics, Published online: 12 October 2026;  doi:10.1038/s41567-026-03487-x Although photonic quantum skyrmions can be generated as entangled or single-photon states, a means to switch between the two is required for quantum information processing. Now, entangled skyrmions and their manipulation on chip is realized.
 
 </details>
 
@@ -953,16 +877,18 @@ Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03501
 ---
 ## Nature Sustainability
 
-### 1. Limited agricultural gains but high flood risk from global wetland reclamation
+*（当日无相关文章，以下为近期精选）*
 
-> **农业收益有限，但全球湿地复垦带来的洪水风险很高**
+### 1. Accelerating water desorption at heterostructure interfaces for high-rate solar evaporation
+
+> **加速异质结构界面处的水解吸，以实现高速太阳能蒸发**
 
 | | |
 |---|---|
 | **期刊** | Nature Sustainability |
-| **作者** | Xi Zhang, Jinwei Dong, Yiqun Shang, Xi Chen et al. |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1038/s41893-026-01965-x](https://doi.org/10.1038/s41893-026-01965-x) |
+| **作者** | Tao Yin, Tao Wan, Ziheng Feng, Mengyao Li et al. |
+| **日期** | 2026-09-15 |
+| **DOI** | [10.1038/s41893-026-01934-4](https://doi.org/10.1038/s41893-026-01934-4) |
 
 **🔑 核心价值**：（暂无）
 
@@ -985,18 +911,16 @@ Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03501
 ---
 ## Nature Synthesis
 
-*（当日无相关文章，以下为近期精选）*
+### 1. Photocatalytic tetrapeptides for enantioselective visible light-induced transformations
 
-### 1. Modular synthesis of 3,3-diaryloxetanes
-
-> **3,3-二芳基氧杂环丁烷的模块化合成**
+> **用于对映选择性可见光诱导转化的光催化四肽**
 
 | | |
 |---|---|
 | **期刊** | Nature Synthesis |
-| **作者** | Qikai Sun, Junsong Liu, Tobias Ritter |
-| **日期** | 2026-10-08 |
-| **DOI** | [10.1038/s44160-026-01183-5](https://doi.org/10.1038/s44160-026-01183-5) |
+| **作者** | Robert M. Irle, Irene Lazzarini, Franz Hagn, Martin Zacharias et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s44160-026-01173-7](https://doi.org/10.1038/s44160-026-01173-7) |
 
 **🔑 核心价值**：（暂无）
 
@@ -1005,8 +929,67 @@ Nature Physics, Published online: 09 October 2026;  doi:10.1038/s41567-026-03501
 <details>
 <summary>📄 英文摘要</summary>
 
-Abstract 
-                   Oxetanes are strained four-membered oxygen heterocycles that are valuable motifs for modulating lipophilicity, metabolic stability and three-dimensional structure of pharmaceuticals. Diaryloxetanes with 3,3-substitution are recognized as bioisosteres of diaryl ketones that preserve key electronic features while exhibiting distinct reactivity. However, synthesis of this motif largely relies on Lewis acid-promoted Friedel–Crafts reactions, which are restricted to electron-rich arenes and often suffer from low functional-group tolerance and competing side reactions. Here we report a method for the synthesis of 3,3-substituted diaryloxetanes from readily available 3-oxetanone through a cross-coupling reaction with tetrafluoropyridone as leaving group. The difunctionalization through subsequent addition of two aryl groups, one from an aryl halide, the other from an arylboronic ester, provides access to a variety of benzophenone bioisosteres. The nickel-catalysed cross-coupling at a fully substituted carbon centre is enabled through oxetanyl C–O bond oxidative addition and establishes programmable entry to 3,3-diaryloxetane bioisosteres that are synthetically challenging to access via traditional polar bond disconnection strategies. Mechanistic studies support a Ni(0)-mediated oxidative addition of the oxetanyl tetrafluoropyridine ester.
+Nature Synthesis, Published online: 12 October 2026;  doi:10.1038/s44160-026-01173-7 Upon irradiation with visible light (λ = 425 nm), a tetrapeptide with a C-terminal photocatalytic site and an N-terminal site for substrate recognition promotes photochemical deracemization and enantioselective [2 + 2] photocycloaddition reactions. The required spatial proximity of catalyst and substrate is corroborated by NMR spectroscopy studies and molecular dynamics simulations.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 2. Scrambling-free synthesis of heteroleptic silylium ions by halide abstraction from halosilanes
+
+> **通过从卤代硅烷中提取卤化物来无扰乱地合成异感性甲硅烷基离子**
+
+| | |
+|---|---|
+| **期刊** | Nature Synthesis |
+| **作者** | Tobias Randt, Dayeon Kang, Natsumi Hammyo, Elisabeth Irran et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s44160-026-01176-4](https://doi.org/10.1038/s44160-026-01176-4) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Synthesis, Published online: 12 October 2026;  doi:10.1038/s44160-026-01176-4 Access to silylium ions with three different substituents has remained elusive owing to substituent scrambling under established synthetic methods. Now, harnessing the Lewis superacidity of halogen-substituted silylium ions, a broadly applicable protocol for synthesizing such heteroleptic silylium ions without substituent redistribution by halide abstraction from readily available halosilanes is reported.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 3. One-step skeletal editing of oxetanes to thietanes using thiourea
+
+> **使用硫脲将氧杂环丁烷一步骨架编辑成硫杂环丁烷**
+
+| | |
+|---|---|
+| **期刊** | Nature Synthesis |
+| **作者** | Like Luo, Deguang Liu, Dayu Tian, Xian Xiao et al. |
+| **日期** | 2026-10-12 |
+| **DOI** | [10.1038/s44160-026-01189-z](https://doi.org/10.1038/s44160-026-01189-z) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Synthesis, Published online: 12 October 2026;  doi:10.1038/s44160-026-01189-z Four-membered heterocycles are privileged scaffolds in medicinal chemistry, yet valuable thietanes remain underexplored compared with widely studied oxetanes and azetidines. Now a one-step skeletal editing strategy is reported that directly converts oxetanes into thietanes using thiourea.
 
 </details>
 
@@ -1088,14 +1071,20 @@ Improvements to the radiative efficiency of halide perovskite thin films are nec
 ---
 ## Science Advances
 
-### 1. Observation of electrically generated polaron-polaritons in a monolayer MoSe2 microcavity
+*（当日无相关文章，以下为近期精选）*
 
-> **单层MoSe2微腔中电生极化子的观察**
+### 1. Observation of electrically generated polaron-polaritons in a monolayer MoSe
+                     2 
+                    microcavity
+
+> **单层MoSe中电生极化子的观察
+                     2 
+                    微腔**
 
 | | |
 |---|---|
 | **期刊** | Science Advances |
-| **作者** | Yuanjun Guan, Mengyao Xu, Zhen Cui, Xingzhou Chen, Chengye Ding, Xiaoqing Zhou, Kenji Watanabe, Takashi Taniguchi, Jesper Levinsen, Meera M. Parish, Pavlos G. Savvidis, Zhe-Yu Shi, Zheng Sun, Jian Wu |
+| **作者** | Yuanjun Guan, Mengyao Xu, Zhen Cui, Xingzhou Chen et al. |
 | **日期** | 2026-10-09 |
 | **DOI** | [10.1126/sciadv.aed2180](https://doi.org/10.1126/sciadv.aed2180) |
 
@@ -1106,67 +1095,7 @@ Improvements to the radiative efficiency of halide perovskite thin films are nec
 <details>
 <summary>📄 英文摘要</summary>
 
-Science Advances, Volume 12, Issue 41, October 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. ALIX-dependent small extracellular vesicles from tissue-resident mesenchymal cells regulate pancreatic β cell proliferation in obesity
-
-> **来自组织驻留的间充质细胞的ALIX依赖性小细胞外囊泡调节肥胖中的胰腺β细胞增殖**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Yuhei Uehara, Hirofumi Nagao, Aoki Tobimatsu, Keitaro Kawada, Shunsuke Shiode, Emi Horitani, Yoshinari Obata, Shiro Fukuda, Yuya Fujishima, Shunbun Kita, Hitoshi Nishizawa, Iichiro Shimomura |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1126/sciadv.aei1333](https://doi.org/10.1126/sciadv.aei1333) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 41, October 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Canonical Wnt induction by OTULIN prevents keratinocyte death and skin inflammation
-
-> **OTULIN的规范Wnt诱导可预防角质形成细胞死亡和皮肤炎症**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Kim Lecomte, Pieter Hertens, Virginie Wylleman, Annagiada Toniolo, Febe Roelandt, Fleur Boone, Maarten Ciers, Lien Verboom, Katrien Staes, Geert van Loo, Esther Hoste |
-| **日期** | 2026-10-09 |
-| **DOI** | [10.1126/sciadv.adz0181](https://doi.org/10.1126/sciadv.adz0181) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 41, October 2026.
+Quasiparticles arising from the interaction between mobile impurities and a quantum many-body environment—known as polarons—play a pivotal role in shaping the optical and electronic properties of low-dimensional systems. Here, we report the direct observation of electrically generated polaron-polaritons within a monolayer molybdenum diselenide microcavity. By embedding the monolayer in a planar optical cavity, we achieve strong coupling between exciton-polarons and cavity photons, creating an electrically driven light-emitting diode based on polaron-polaritons. The device exhibits an external quantum efficiency of ∼0.15%, representing a 10-fold enhancement over prior exciton-polariton devices based on monolayer tungsten disulfide. This demonstration establishes a versatile platform for inversionless laser technology and for polariton-based quantum optoelectronics while offering insights into radiative many-body physics in two-dimensional semiconductors.
 
 </details>
 
