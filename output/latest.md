@@ -1,10 +1,10 @@
 ---
-date: 2026-11-14
+date: 2026-11-15
 type: journal-digest
 topics: [battery, microscopy, 2D-materials, materials]
 ---
 
-# 📰 期刊每日速递 · 2026-11-14
+# 📰 期刊每日速递 · 2026-11-15
 
 > 涵盖期刊：Nature 系列 · Science 系列 · ACS · Wiley
 > 话题：电池 · 电子显微镜 · 二维材料 · 材料科学
@@ -17,7 +17,7 @@ topics: [battery, microscopy, 2D-materials, materials]
 
 ### 1. Spiro-OMeTAD-Inspired Molecular Design: Electron Tunneling Meets Halogen Bonding for Robust Buried Interfaces
 
-> **受Spiro-OMeTAD启发的分子设计：电子隧穿与卤键结合，实现稳健的埋置界面**
+> **受Spiro-OMeTAD启发的分子设计：电子隧穿与卤键结合，实现稳健的埋入式界面**
 
 | | |
 |---|---|
@@ -48,26 +48,25 @@ Abstract
 ---
 ## Advanced Materials
 
-### 1. Quicklime Slaking‐Mediated Exothermic Reactions in Polidocanol‐Integrated Ablators with Inhibited Heat Diffusion Enable Cancer Thermal Ablation
+### 1. Multiscale Characterizations Toward Energy Storage Carbon Materials From Precursors to Electrodes
 
-> **在抑制热扩散的聚多卡醇集成消融器中，生石灰消解介导的放热反应实现肿瘤热消融**
+> **从前驱体到电极的储能碳材料多尺度表征**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Wei Zhang, 
-Zheng Lv, 
-Qiuxia Peng, 
-Jun Luo, 
-Chao Fang, 
-Taixia Wang, 
-Yingying Chen, 
-Ziyi Wang, 
-Chunyan Zhu, 
-Xiaolong Li, 
-Kun Zhang |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1002/adma.75736](https://doi.org/10.1002/adma.75736) |
+| **作者** | Lijing Xie, 
+Yifan Chai, 
+Tianle Wang, 
+Xiaoming Li, 
+Xiaoqian Guo, 
+Yafeng Fan, 
+Zonglin Yi, 
+Jingpeng Chen, 
+Cheng Tang, 
+Fangyuan Su |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1002/adma.75617](https://doi.org/10.1002/adma.75617) |
 
 **🔑 核心价值**：（暂无）
 
@@ -88,23 +87,27 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 2. Topological Superlattice Stabilized Layered Oxide Cathodes With Sustainable Anionic Redox
+### 2. Thermodynamically Controlled Multiphase Evolution in Single‐Crystal Cation‐Disordered Li‐Ion Cathode Materials
 
-> **具有可持续阴离子氧化还原的拓扑超晶格稳定层状氧化物正极**
+> **单晶阳离子无序锂离子正极材料中热力学控制的多相演化**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Zhonghan Wu, 
-Youxuan Ni, 
-Xinni Li, 
-Lunhua He, 
-Liang Zhang, 
-Fangyi Cheng, 
-Jun Chen, 
-Kai Zhang |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1002/adma.75716](https://doi.org/10.1002/adma.75716) |
+| **作者** | Hoda Ahmed, 
+Moohyun Woo, 
+Nicolas Dumaresq, 
+Nicolas Brodusch, 
+Gregory Lazaris, 
+Richie Fong, 
+Pablo Trevino Lara, 
+Volodymyr Vasylyev, 
+Yixuan Zhang, 
+Suwon Lee, 
+Raynald Gauvin, 
+Jinhyuk Lee |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1002/adma.75720](https://doi.org/10.1002/adma.75720) |
 
 **🔑 核心价值**：（暂无）
 
@@ -125,28 +128,21 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 3. Ultra‐Stable Phosphide Barrier Layer for Thermoelectric Bismuth Telluride
+### 3. Remarkable Low‐Temperature Magnetocaloric Performance in a Frustrated Divalent Eu(II) Magnet Eu5FP3O12
 
-> **用于热电碲化铋的超稳定磷化物阻挡层**
+> **受阻二价铕(II)磁体Eu5FP3O12的优异低温磁热性能**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Junfeng Chen, 
-Zhiyuan Yu, 
-Jianbo Zhu, 
-Haijun Wu, 
-Yuxin Sun, 
-Zijian Zhang, 
-Jiayue Du, 
-Kuai Yu, 
-Xian Tang, 
-Wei Cai, 
-Zihang Liu, 
-Fengkai Guo, 
-Jiehe Sui |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1002/adma.75713](https://doi.org/10.1002/adma.75713) |
+| **作者** | Yikun Zhang, 
+Wang Chen, 
+Gan Ding, 
+Xiaoli Gong, 
+Minqiang Jiang, 
+Lingwei Li |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1002/adma.75737](https://doi.org/10.1002/adma.75737) |
 
 **🔑 核心价值**：（暂无）
 
@@ -169,31 +165,19 @@ Advanced Materials, EarlyView.
 ---
 ## Angewandte Chemie
 
-### 1. Cyclic Dimer Acceptor towards 20.9% Efficient Organic Solar Cells by Suppressing Electron‐Phonon Coupling
+### 1. Iron‐Catalyzed Regioselective Amidation of Pyridines via Zincke Imine Intermediates
 
-> **通过抑制电子-声子耦合实现20.9%效率有机太阳能电池的环状二聚体受体**
+> **通过Zincke亚胺中间体实现的铁催化吡啶区域选择性酰胺化**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Xiaopeng Duan, 
-Junjie Zhang, 
-Xiaoming Li, 
-Zezhou Liang, 
-Busheng Zhang, 
-Haisheng Ma, 
-Ziwei Zhang, 
-Wenzhi Ma, 
-Xuelin Wang, 
-Jialong Gong, 
-Zheng Tang, 
-Jun Yan, 
-Biao Xiao, 
-Xian‐Kai Chen, 
-Zhishan Bo, 
-Yanming Sun |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1002/anie.7582301](https://doi.org/10.1002/anie.7582301) |
+| **作者** | Soumyadip Hore, 
+Hoonchul Choi, 
+Dongwook Kim, 
+Sukbok Chang |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1002/anie.5465706](https://doi.org/10.1002/anie.5465706) |
 
 **🔑 核心价值**：（暂无）
 
@@ -214,21 +198,20 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 2. Expedient Photochemical Synthesis of syn‐Ladderanes
+### 2. An Oxidative Twist to the Interrupted Pummerer Reaction: Unlocking Inaccessible Aryl Sulfonium Salts
 
-> **syn-梯形烷的便捷光化学合成**
+> **对中断的Pummerer反应的氧化性改造：解锁难以获得的芳基鎓盐**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Guillaume Roland, 
-Andrea Minutti‐Simoni, 
-Bernard D'Onofrio, 
-Rebecca L. Davis, 
-Alexandre Lemire, 
-Shawn K. Collins |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1002/anie.5898788](https://doi.org/10.1002/anie.5898788) |
+| **作者** | Hao Lu, 
+Yi‐Jin Liang, 
+Qi‐Qi Zhang, 
+Hua‐Jian Zhu, 
+Yun‐Rui Cai |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1002/anie.3204574](https://doi.org/10.1002/anie.3204574) |
 
 **🔑 核心价值**：（暂无）
 
@@ -249,19 +232,23 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 3. Localized Geometric Frustration in One‐Dimensional Covalent Organic Frameworks for Photocoupled Electrocatalytic H2O2 Production
+### 3. Trigonal Prismatic Coordination Field‐Induced d‐Orbital Splitting Enables σ Electron Activation for Efficient Polysulfide Conversion in Li–S Batteries
 
-> **一维共价有机框架中用于光耦合电催化H2O2制备的局部几何受阻**
+> **三角棱柱配位场诱导的d轨道分裂实现σ电子活化，从而在锂-硫电池中实现高效的多硫化物转化**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Jie‐Yu Yue, 
-Zi‐Shuo Xu, 
-Peng Yang, 
-Bo Tang |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1002/anie.3175239](https://doi.org/10.1002/anie.3175239) |
+| **作者** | Yiyang Mao, 
+Yan Zhang, 
+Yueyue Liu, 
+Liang Deng, 
+Qidi Zhang, 
+Shengwei Dong, 
+Kai Zhu, 
+Shuaifeng Lou |
+| **日期** | 2026-11-15 |
+| **DOI** | [10.1002/anie.5340472](https://doi.org/10.1002/anie.5340472) |
 
 **🔑 核心价值**：（暂无）
 
@@ -284,26 +271,20 @@ Angewandte Chemie International Edition, EarlyView.
 ---
 ## JACS
 
-### 1. Sequence-Regulated
-Adhesion of Poly(diethyl glycolide-
-                     alt 
-                    -β-butyrolactone)
-Synthesized via Enantiomorphic
-Site-Assisted Stereospecific Alternating Copolymerization
+### 1. Colloidally Prepared
+Homogeneous Wide-Bandgap Perovskites
+for Efficient Tandem Solar Cells with Industrial Silicon
 
-> **序列调控的
-聚（二乙基乙醇酸酯-
-                     交替 
-                    -β-丁内酯）
-通过对映异构
-位点辅助立体选择性交替共聚**
+> **胶体制备的
+均匀宽带隙钙钛矿
+用于具有工业硅的高效串联太阳能电池**
 
 | | |
 |---|---|
 | **期刊** | JACS |
-| **作者** | Hongjun Fu, Chunmei Wang, Suqian Gao, Jiyu Liu et al. |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1021/jacs.6c18274](https://doi.org/10.1021/jacs.6c18274) |
+| **作者** | Wentao Liu, Shaofei Yang, Long Jiang, Minglong Liu et al. |
+| **日期** | 2026-11-15 |
+| **DOI** | [10.1021/jacs.6c10873](https://doi.org/10.1021/jacs.6c10873) |
 
 **🔑 核心价值**：（暂无）
 
@@ -313,79 +294,7 @@ Site-Assisted Stereospecific Alternating Copolymerization
 <summary>📄 英文摘要</summary>
 
 Abstract 
-                   Biodegradable polyesters can be promising adhesives for their inherent biodegradability, yet their adhesive performance still requires substantial enhancement to meet practical demands. In this work, the alternating sequence effect on adhesive property was explored in the alternating copolymer of S,S-diethylglycolide (S,S-EG, derived from α-hydroxybutyric acid, i.e., α-ethyl-glycolic acid) and R-β-butyrolactone (R-BBL, derived from β-hydroxybutyric acid). However, the alternating copolymerization of these two monomers is still a challenge due to their distinct chemical structures and the inherent competition between cross-propagation and homopropagation. Herein, the successful alternating copolymerization of S,S-EG and R-BBL was reported with an alternating probability of 0.96 through an enantiomorphic site-assisted stereospecific alternating copolymerization strategy using new 1,1′-bi-2-naphthol (BINOL)-derived axially chiral yttrium complex catalysts. Remarkably, the lap-shear adhesion strength of the resulting copolyesters on stainless steel reaches a high level of 10.5 MPa, correlating positively with the increased regularity of the alternating sequence. This improvement can be attributed to the combined effects of interchain electrostatic interactions and viscoelastic behavior, which suggests that monomer sequence can also serve as a molecular parameter for regulating interfacial adhesion performance.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Unraveling the Intrinsic
-Interfacial Chemistry of
-Fluoroethylene Carbonate on Lithium Metal Anodes via a Solvent-Free
-Model System
-
-> **通过无溶剂方法
-氟乙烯碳酸酯在锂金属负极上的
-氟代亚乙基碳酸酯在锂金属阳极上的固有界面化学性质
-模型系统**
-
-| | |
-|---|---|
-| **期刊** | JACS |
-| **作者** | Nanbiao Pei, Yuan Tian, Xueying Yang, Qijie Gao et al. |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1021/jacs.6c16437](https://doi.org/10.1021/jacs.6c16437) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Fluoroethylene carbonate (FEC) is a widely used film-forming additive for stabilizing lithium metal anodes (LMAs), yet its intrinsic interfacial chemistry remains elusive because its reactions are coupled with those of solvents and Li salts in conventional electrolytes. Herein, a solvent-free, dry-processed poly(ethylene oxide)-based solid polymer electrolyte (PEO@Dry) is developed as a platform to isolate the interfacial reactions of FEC without interference from traditional liquid organic solvents. PEO@Dry retains the intrinsic interfacial reactivity of PEO and LiTFSI while eliminating solvent-derived interference. FEC is found to undergo a spontaneous chemical reaction with Li metal before electrochemical reduction, producing a dense LiF-rich solid electrolyte interphase (SEI) that is subsequently reinforced by organic species derived from the electrochemical reactions. The resulting SEI exhibits a well-defined composition and robust structure, leading to an enhanced interfacial stability and electrochemical performance. Comparative research with a DME-based liquid electrolyte reveals that FEC (DME@FEC) follows distinct reaction pathways depending on its solvation state. In the solvent-free PEO@Dry system, free FEC undergoes sequential chemical and electrochemical reduction to form an inorganic-rich SEI, whereas in the liquid electrolyte, FEC participates in Li+ solvation and competes with other electrolyte components, yielding a more complex SEI. This work clarifies the interfacial mechanism of FEC and establishes a general solvent-free platform for mechanistic studies of electrolyte additives on LMAs.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Directional Nitrite
-Spillover Couples to Interfacial
-Hydrogen-Bond Networks for Ampere-Level Nitrate-to-Ammonia Electrosynthesis
-
-> **定向亚硝酸盐
-溢出耦合到界面
-氢键网络，用于安培级硝酸盐电合成氨**
-
-| | |
-|---|---|
-| **期刊** | JACS |
-| **作者** | Qingshuang Xu, Kangyu Lou, Zihan Liu, Xuesong Zhao et al. |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1021/jacs.6c20417](https://doi.org/10.1021/jacs.6c20417) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Electrocatalytic nitrate reduction to ammonia is often constrained by the proton-coupled hydrogenation of adsorbed nitrite (*NO2), a step commonly accelerated through hydrogen spillover and local reactive-hydrogen (*H) supply. This hydrogen-centered view, however, treats *NO2 largely as a passive intermediate and overlooks whether its migration can reconstruct the interfacial hydrogen-bond-network environment required for downstream hydrogenation. Here, we show that directional *NO2 spillover couples site-specific intermediate transport with interfacial hydrogen-bond-network reorganization. In a Cu–Ag dual-site model interface, nitrate activation and *NO2 formation occur preferentially on the Cu sites, whereas migrated *NO2 species are stabilized and hydrogenated on the Ag-associated sites. In situ spectroscopy, kinetic isotope measurements, distribution-of-relaxation-time analysis, and theoretical simulations reveal that this Cu-to-Ag relay enriches K+-associated interfacial water, reinforces hydrogen-bond connectivity, and facilitates *H delivery for *NO2 hydrogenation. The optimized CuAg N-doped carbon (CuAg–N-C) achieves near-unity Faradaic efficiency (FE) for NH3 with a yield rate of 411.8 mmol g–1 h–1 and retains 83% FE at 1 A cm–2 in a flow cell. The catalyst further retains substantial nitrate-to-ammonia recovery in simulated and authentic industrial water matrices. More broadly, this work establishes *NO2 spillover as a dynamic interfacial mechanism linking intermediate transport, water-network organization, and proton-coupled nitrogen conversion, providing a framework for sustaining molecular-scale selectivity under chemically complex reaction environments.
+                   Wide-bandgap (WBG) perovskites, based on mixed halide-cation compositions, are widely employed as top cells in perovskite/silicon tandem solar cells to overcome the theoretical limitations of single-junction devices and exploit the full potential of crystalline silicon photovoltaics. However, uncontrolled nucleation rates and disordered crystallization kinetics in WBG perovskites pose a grave challenge to the preparation of phase-homogeneous perovskite films. Herein, we identify the undesirable precursor suspension as the main underlying reason for the compositional inhomogeneity and propose a colloidal engineering strategy to reconstruct the perovskite intermediate complex. According to classical colloidal theory and theoretical calculations, long-chain alkylphosphonic acid molecules are selected to precisely regulate colloidal structures and properties via their specific coordination strengths, leading to colloid-guided rapid nucleation and slow crystallization processes. Assisted by the uniform colloidal nucleation template, the prepared WBG perovskite films with compositional homogenization and reduced trap density enable tandem devices based on industrial silicon heterojunction cells to yield a champion power conversion efficiency of 34.01% (a certified reverse-scan PCE of 33.65%) for a 1 cm2 active area. The resultant encapsulated tandem device maintains 93% and 88% of its initial efficiency after 1211 h and 1000 h of one-sun operation at 25 and 65 °C, respectively, under their maximum power points.
 
 </details>
 
@@ -399,20 +308,20 @@ Abstract
 ---
 ## Nano Letters
 
-### 1. Internal Symmetry-Driven
-Modal Convergence Enhances
-Chiral Scattering
+### 1. Ferroelectric
+Polarization Dynamics of HZO FeCAPs
+at a Verified Subnanosecond Time Scale
 
-> **内部对称性驱动的
-模态收敛增强
-手性散射**
+> **铁电体
+HZO FeCAP 的极化动力学
+极化动力学**
 
 | | |
 |---|---|
 | **期刊** | Nano Letters |
-| **作者** | JaeWoo Park, Shuai Feng, Deeksha Satyabola, Abhishek Saji Kumar et al. |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1021/acs.nanolett.6c05145](https://doi.org/10.1021/acs.nanolett.6c05145) |
+| **作者** | Mor M. Dahan, Emanuel Ber, Florian Wunderwald, Guy Orlev et al. |
+| **日期** | 2026-11-15 |
+| **DOI** | [10.1021/acs.nanolett.6c02293](https://doi.org/10.1021/acs.nanolett.6c02293) |
 
 **🔑 核心价值**：（暂无）
 
@@ -422,42 +331,7 @@ Chiral Scattering
 <summary>📄 英文摘要</summary>
 
 Abstract 
-                   Chiral scattering in nanostructures emerges from interference between electric and magnetic modes, yet its associated modal strength, arrangements and spectral concentration cannot be inferred from structural handedness alone. Using plasmonic nanorod dimers as a model system, we combine full-field electromagnetic simulations and single-particle circular differential scattering (CDS) spectroscopy to reveal how rotational and translational reconfigurations reshape modal overlap, coupling, and spectral organization even within an established handed architecture. We show that rotational asymmetry tunes the balance between electric-dipole (ED)- and magnetic-dipole (MD)-dominant chiral modes, while translational asymmetry controls their spectral separation and convergence. Consequently, the center-edge configuration produces enhanced and spectrally concentrated CDS responses coinciding with reduced chiral mode splitting and strengthened ED–MD coupling, a mode convergence regime supported both theoretically and experimentally. These results establish modal convergence as a design criterion for tailoring mode organization and scattering through internal symmetry in chiral nanophotonic systems.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Phonon-Activated
-Optical Transitions in Graphullerene
-Monolayers
-
-> **声子激活的
-石墨烯单层中的光学跃迁
-单层**
-
-| | |
-|---|---|
-| **期刊** | Nano Letters |
-| **作者** | Aurélie Champagne, Antonios M. Alvertis, Yoann Olivier, Leeor Kronik et al. |
-| **日期** | 2026-11-14 |
-| **DOI** | [10.1021/acs.nanolett.6c03572](https://doi.org/10.1021/acs.nanolett.6c03572) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Understanding the interplay between electronic states and lattice vibrations is crucial for predicting and engineering the electronic and optical properties of low-dimensional materials. Among these, graphullerene─a hybrid structure combining the planar characteristics of graphene with the curvature-induced properties of fullerene C60─offers a unique platform for exploring vibronic coupling effects beyond the molecular limit. Here, using ab initio many-body perturbation theory and nonperturbative finite difference approaches, we calculate the renormalization of the quasiparticle (QP) and optical band gaps of graphullerene monolayers induced by nuclear motion. We find a renormalization of 0.22 eV for the QP gap and 0.33 eV for the optical gap at 300 K. We show that the large optical red shift predominantly arises from a Herzberg–Teller-like mechanism, in which zero-point nuclear motions dynamically reduce symmetry and activate otherwise forbidden vertical transitions at Γ.
+                   Ferroelectric random-access memory (FeRAM) based on the ferroelectric capacitor (FeCAP) offers a promising solution for next-generation embedded memory. In this Letter, we demonstrate subnanosecond ferroelectric polarization dynamics in HZO FeCAPs using an RF-compatible structure. By simultaneously measuring the electrode voltage and transient current under subnanosecond pulsing, we directly observe polarization dynamics with a temporal resolution below 100 ps. Our results demonstrate subnanosecond switching under directly monitored TE pulses with voltage amplitudes of 5 V in 8 nm-thick HZO capacitors with an area of 16 μm2. We also map switching kinetics for sub-10 ns pulse widths using this methodology. We further correlate polarization obtained from the dynamic current transient with the results from the postpulse readout scheme. Motivated by dynamic random-access-memory (DRAM) latency targets, these results establish a device-level benchmark for delivered subnanosecond switching in HZO FeCAPs and, together with a simplified nucleation-limited switching (NLS) analysis, define an effective ultrafast switching window for FeCAP evaluation.
 
 </details>
 
@@ -471,16 +345,16 @@ Abstract
 ---
 ## Nature
 
-### 1. Number of international students arriving in US plunges — worrying scientists
+### 1. The climate is in  crisis  — here’s four things we can do
 
-> **赴美留学生人数骤降——令科学家担忧**
+> **气候正处于危机之中——以下是我们能做的四件事**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | Dan Garisto |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1038/d41586-026-03668-x](https://doi.org/10.1038/d41586-026-03668-x) |
+| **作者** | Nick Petrić Howe |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/d41586-026-03760-2](https://doi.org/10.1038/d41586-026-03760-2) |
 
 **🔑 核心价值**：（暂无）
 
@@ -489,7 +363,7 @@ Abstract
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.
+Nature, Published online: 16 November 2026;  doi:10.1038/d41586-026-03760-2 More needs to be done to combat climate change, but what? We discuss some big ideas to rein in emissions.
 
 </details>
 
@@ -501,16 +375,16 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03668-x Decl
 </details>
 
 ---
-### 2. Chinese graduate students are now choosing to stay closer to home
+### 2. Architecture of a portal complex embedded in the poxvirus core
 
-> **中国研究生现在选择离家更近的地方**
+> **嵌入痘病毒核心的门户复合体的结构**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | Xiaoying You |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1038/d41586-026-03456-7](https://doi.org/10.1038/d41586-026-03456-7) |
+| **作者** | Ye Hong, Shiyuan Liu, Keren Wang, Rui Liang et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41586-026-11399-2](https://doi.org/10.1038/s41586-026-11399-2) |
 
 **🔑 核心价值**：（暂无）
 
@@ -519,7 +393,7 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03668-x Decl
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.
+Nature, Published online: 16 November 2026;  doi:10.1038/s41586-026-11399-2 Architecture of a portal complex embedded in the poxvirus core
 
 </details>
 
@@ -531,16 +405,16 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03456-7 Mala
 </details>
 
 ---
-### 3. Accept all changes
+### 3. As El Niño builds, studies of extreme marine heatwaves must start now
 
-> **接受所有更改**
+> **随着厄尔尼诺现象的形成，对极端海洋热浪的研究必须立即开始**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | Jiayi Zhao |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1038/d41586-026-03516-y](https://doi.org/10.1038/d41586-026-03516-y) |
+| **作者** | Alistair J. Hobday, Kathryn E. Smith, Claire M. Spillman, Karen Filbee-Dexter et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/d41586-026-03715-7](https://doi.org/10.1038/d41586-026-03715-7) |
 
 **🔑 核心价值**：（暂无）
 
@@ -549,7 +423,7 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03456-7 Mala
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03516-y It’s the end — or is it?
+Nature, Published online: 16 November 2026;  doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.
 
 </details>
 
@@ -563,18 +437,16 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03516-y It�
 ---
 ## Nature Chemistry
 
-*（当日无相关文章，以下为近期精选）*
+### 1. A bowl-shaped nanocarbon incorporating an aromatic cyclopentadienide ring
 
-### 1. Discovery and development of antimicrobial polymers
-
-> **抗菌聚合物的发现和开发**
+> **含有芳香性环戊二烯基环的碗状纳米碳**
 
 | | |
 |---|---|
 | **期刊** | Nature Chemistry |
-| **作者** | Shoshana C. Williams, Priya Ganesh, Tianang Leng, Cesar de la Fuente-Nunez et al. |
-| **日期** | 2026-11-12 |
-| **DOI** | [10.1038/s41557-026-02280-w](https://doi.org/10.1038/s41557-026-02280-w) |
+| **作者** | Nan Luo, Chuang Ye, Zian Zhou, Yiqiang Ou et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41557-026-02293-5](https://doi.org/10.1038/s41557-026-02293-5) |
 
 **🔑 核心价值**：（暂无）
 
@@ -583,7 +455,7 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03516-y It�
 <details>
 <summary>📄 英文摘要</summary>
 
-（暂无）
+Nature Chemistry, Published online: 16 November 2026;  doi:10.1038/s41557-026-02293-5 Five-membered rings are ubiquitous in non-planar π systems, but are typically neutral, non-aromatic or anti-aromatic. Now a bowl-shaped nanocarbon incorporating an anionic, aromatic cyclopentadienide ring has been prepared and found to exhibit unusual structural and electronic properties, enabling site-selective reactivity on its π surface for both covalent functionalization and metal coordination.
 
 </details>
 
@@ -597,16 +469,16 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03516-y It�
 ---
 ## Nature Communications
 
-### 1. Phosphorus-mediated reverse hydrogen spillover enables rate-matched nitrate-sulfate paired electrolysis for ammonium persulfate synthesis
+### 1. Brønsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids
 
-> **磷介导的反向氢溢出实现速率匹配的硝酸盐-硫酸盐配对电解，用于合成过硫酸铵**
+> **用于埃博南和马钱烯生物碱全合成的布朗斯特/路易斯酸催化的烷氧基丙二烯分叉级联环化**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Yaobin Wang, Hanbo Cui, Changhui Zhou, Chaoyue Xie et al. |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1038/s41467-026-79620-4](https://doi.org/10.1038/s41467-026-79620-4) |
+| **作者** | Fengchi Hu, Qiude Huang, Su Su Htwe Chaw, Chengfeng Xia |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41467-026-79505-6](https://doi.org/10.1038/s41467-026-79505-6) |
 
 **🔑 核心价值**：（暂无）
 
@@ -615,7 +487,7 @@ Nature, Published online: 13 November 2026;  doi:10.1038/d41586-026-03516-y It�
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-026-79620-4 Electrochemical conversion of nitrate-rich wastewater to valuable ammonium salts is promising. We report a phosphorus-mediated reverse hydrogen spillover mechanism that synchronizes nitrate-reduction and sulfate-oxidation kinetics, enabling direct electrosynthesis of ammonium persulfate.
+Nature Communications, Published online: 16 November 2026;  doi:10.1038/s41467-026-79505-6 Eburnane and aspidofractinine alkaloids are biogenetically related yet structurally distinct polycyclic monoterpenoids, whose syntheses have traditionally proceeded separately. Here, the authors report a divergent cascade from a common alkoxyallene precursor, enabling access to both scaffolds through acid controlled tandem pathways and total syntheses of representative alkaloids.
 
 </details>
 
@@ -627,16 +499,16 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 </details>
 
 ---
-### 2. Directly visualizing the energy level structure of quantum dot molecules
+### 2. Author Correction: Adenine base editing-mediated exon skipping restores dystrophin in humanized Duchenne mouse model
 
-> **直接可视化量子点分子的能级结构**
+> **作者勘误：腺嘌呤碱基编辑介导的外显子跳跃在人源化杜氏小鼠模型中恢复了肌营养不良蛋白**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Heun Mo Yoo, Tanner M. Janda, Connor Nasseraddin, Jason R. Petta |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1038/s41467-026-79672-6](https://doi.org/10.1038/s41467-026-79672-6) |
+| **作者** | Jiajia Lin, Ming Jin, Dong Yang, Zhifang Li et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41467-026-79730-z](https://doi.org/10.1038/s41467-026-79730-z) |
 
 **🔑 核心价值**：（暂无）
 
@@ -645,7 +517,7 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-026-79672-6 Characterizing the energy spectrum of semiconductor quantum dots is essential for spin qubit operation but remains challenging across broad parameter ranges. Here, the authors use molecular spectroscopy to map one and two electron energy levels in a silicon double quantum dot as functions of detuning, tunnel coupling, and magnetic field.
+Nature Communications, Published online: 16 November 2026;  doi:10.1038/s41467-026-79730-z Author Correction: Adenine base editing-mediated exon skipping restores dystrophin in humanized Duchenne mouse model
 
 </details>
 
@@ -657,16 +529,16 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 </details>
 
 ---
-### 3. Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses
+### 3. Knowledge-guided machine learning deciphers spatiotemporal dynamics in chemical reactor systems
 
-> **细胞毒性药物和双特异性T细胞衔接分子协同作用，重塑宿主免疫力并诱导多克隆抗肿瘤T细胞应答**
+> **知识引导的机器学习破译化学反应器系统中的时空动力学**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Dylan Kwart, Qiaozhi Wei, Wei-Yi Cheng, Kamilah Ryan et al. |
-| **日期** | 2026-11-15 |
-| **DOI** | [10.1038/s41467-026-79192-3](https://doi.org/10.1038/s41467-026-79192-3) |
+| **作者** | Shiyi Tang, Zhaoyang Duan, Zhou Tian, Wenli Du et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41467-026-79078-4](https://doi.org/10.1038/s41467-026-79078-4) |
 
 **🔑 核心价值**：（暂无）
 
@@ -675,7 +547,7 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-026-79192-3 TAA×CD28 costimulatory bispecific antibodies are a class of immunotherapeutics that provide tumor-targeted CD28 costimulation to T cells by crosslinking CD28 on T cells to a tumor-associated antigen (TAA) expressed on tumor cells. Here, the authors show that cytotoxic therapies reprogram the tumor microenvironment and augment the antitumor immunity induced by TAA×CD28 bispecifics.
+Nature Communications, Published online: 16 November 2026;  doi:10.1038/s41467-026-79078-4 A physics-informed neural network embeds coking and heat transfer knowledge via an output integration layer and region-weighted loss to predict reactor spatiotemporal fields; it matches conventional simulation results, improves peak wall temperature accuracy, and runs about five orders of magnitude faster than conventional simulations.
 
 </details>
 
@@ -723,18 +595,16 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 ---
 ## Nature Materials
 
-*（当日无相关文章，以下为近期精选）*
+### 1. Two-dimensional material membranes with precisely tunable interlayer spacing from nanometre to submillimetre
 
-### 1. Proximal redox coupling enables oxidation damping for stable water electrolysis
-
-> **近端氧化还原偶联实现氧化衰减，从而实现稳定的水电解**
+> **具有从纳米到亚毫米精确可调层间距的二维材料膜**
 
 | | |
 |---|---|
 | **期刊** | Nature Materials |
-| **作者** | Tengyu Chen, Kaiwen Wang, Lu Xia, Wulyu Jiang et al. |
-| **日期** | 2026-11-12 |
-| **DOI** | [10.1038/s41563-026-02783-4](https://doi.org/10.1038/s41563-026-02783-4) |
+| **作者** | Qixiang Zhang, Minmin Xue, Yongxin Wang, Junjie Shi et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41563-026-02799-w](https://doi.org/10.1038/s41563-026-02799-w) |
 
 **🔑 核心价值**：（暂无）
 
@@ -743,7 +613,37 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
+Nature Materials, Published online: 16 November 2026;  doi:10.1038/s41563-026-02799-w A deprotonation–ion coordination strategy is developed for microstructural engineering of layered material membranes, enabling the precise and reversible modulation of interlayer spacing over five orders of magnitude.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
 （暂无）
+
+</details>
+
+---
+### 2. Controlling the flow of information in optical metrology
+
+> **控制光学计量中的信息流**
+
+| | |
+|---|---|
+| **期刊** | Nature Materials |
+| **作者** | Maximilian Weimar, Huanli Zhou, Luca Neubacher, Thomas A. Grant et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41563-026-02789-y](https://doi.org/10.1038/s41563-026-02789-y) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Materials, Published online: 16 November 2026;  doi:10.1038/s41563-026-02789-y By treating Fisher information as a conserved wave quantity, nanophotonic systems can be designed to control information generation and flow, opening a route to improve optical measurement and sensing precision.
 
 </details>
 
@@ -791,16 +691,16 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 ---
 ## Nature Physics
 
-### 1. Just publish it
+### 1. 150 years proving fundamental science is worth the wait
 
-> **直接发布**
+> **150年来，基础科学的价值经受住了时间的考验**
 
 | | |
 |---|---|
 | **期刊** | Nature Physics |
-| **作者** | James Wilsdon |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1038/s41567-026-03524-9](https://doi.org/10.1038/s41567-026-03524-9) |
+| **作者** | Kalobaran Maiti |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41567-026-03538-3](https://doi.org/10.1038/s41567-026-03538-3) |
 
 **🔑 核心价值**：（暂无）
 
@@ -809,7 +709,67 @@ Nature Communications, Published online: 15 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Physics, Published online: 13 November 2026;  doi:10.1038/s41567-026-03524-9 Just publish it
+Nature Physics, Published online: 16 November 2026;  doi:10.1038/s41567-026-03538-3 Founded in 1876, the Indian Association for the Cultivation of Science created an early space for Indians to pursue science. Its achievements offer valuable lessons for strengthening today’s research landscape in India.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 2. Extension of coherence time beyond breakeven point using only drives and dissipation
+
+> **仅使用驱动和耗散将相干时间延长至盈亏平衡点之外**
+
+| | |
+|---|---|
+| **期刊** | Nature Physics |
+| **作者** | Lida Sun, Yifang Xu, Yilong Zhou, Ziyue Hua et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41567-026-03528-5](https://doi.org/10.1038/s41567-026-03528-5) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Physics, Published online: 16 November 2026;  doi:10.1038/s41567-026-03528-5 An autonomous quantum error correction protocol based on engineered drives and dissipation extends the coherence time of a bosonic logical qubit beyond that of the best physical qubit in the same system.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 3. Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction
+
+> **通过自主量子纠错将量子比特寿命延长至盈亏平衡点之上，并增强量子传感能力**
+
+| | |
+|---|---|
+| **期刊** | Nature Physics |
+| **作者** | Zhongchu Ni, Ling Hu, Yanyan Cai, Libo Zhang et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41567-026-03493-z](https://doi.org/10.1038/s41567-026-03493-z) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Physics, Published online: 16 November 2026;  doi:10.1038/s41567-026-03493-z A measurement-free quantum error-correction protocol is shown to extend the lifetime of a bosonic logical qubit beyond the best physical qubit in the same system. This also offers prospects for enhanced quantum sensing.
 
 </details>
 
@@ -823,18 +783,16 @@ Nature Physics, Published online: 13 November 2026;  doi:10.1038/s41567-026-0352
 ---
 ## Nature Sustainability
 
-*（当日无相关文章，以下为近期精选）*
+### 1. Holistic evaluation for deployment
 
-### 1. A circular oligo(disulfide) anolyte enables practical aqueous redox flow batteries
-
-> **循环寡聚（二硫化物）阳极电解液实现了实用的水系氧化还原液流电池**
+> **部署的整体评估**
 
 | | |
 |---|---|
 | **期刊** | Nature Sustainability |
-| **作者** | Qiliang Chen, Hongjuan Ou, Xiaoting Zhao, Yajie Jin et al. |
-| **日期** | 2026-10-23 |
-| **DOI** | [10.1038/s41893-026-01970-0](https://doi.org/10.1038/s41893-026-01970-0) |
+| **作者** | Xiao-Lei Shi, Zhi-Gang Chen |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41893-026-01968-8](https://doi.org/10.1038/s41893-026-01968-8) |
 
 **🔑 核心价值**：（暂无）
 
@@ -843,7 +801,67 @@ Nature Physics, Published online: 13 November 2026;  doi:10.1038/s41567-026-0352
 <details>
 <summary>📄 英文摘要</summary>
 
+Nature Sustainability, Published online: 16 November 2026;  doi:10.1038/s41893-026-01968-8 Thermoelectric technologies can convert waste heat directly into clean electricity, but high laboratory efficiency does not necessarily translate into practical deployment. By revisiting the long-neglected material zinc antimonide, researchers now show that strong thermoelectric performance can go hand in hand with affordability and sustainability.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
 （暂无）
+
+</details>
+
+---
+### 2. Assessing the carbon emissions and energy consumption of US hyperscale data centres
+
+> **评估美国超大规模数据中心的碳排放和能耗**
+
+| | |
+|---|---|
+| **期刊** | Nature Sustainability |
+| **作者** | Gianluca Guidi, Francesca Dominici, Tiziano Squartini, Callaway Sprinkle et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41893-026-01985-7](https://doi.org/10.1038/s41893-026-01985-7) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Sustainability, Published online: 16 November 2026;  doi:10.1038/s41893-026-01985-7 The growing number of hyperscale data centres raises concerns about their environmental impacts. This study presents a facility-resolved attributional framework to assess the carbon footprint of hyperscale data centres in the USA using plant-level electricity-generation and emissions data.
+
+</details>
+
+<details>
+<summary>📝 中文摘要</summary>
+
+（暂无）
+
+</details>
+
+---
+### 3. Unlocking sustainable thermoelectric generation with zinc antimonide
+
+> **利用锑化锌实现可持续热电发电**
+
+| | |
+|---|---|
+| **期刊** | Nature Sustainability |
+| **作者** | Xinzhi Wu, Airan Li, Longquan Wang, Gang Wu et al. |
+| **日期** | 2026-11-16 |
+| **DOI** | [10.1038/s41893-026-01986-6](https://doi.org/10.1038/s41893-026-01986-6) |
+
+**🔑 核心价值**：（暂无）
+
+**关键词**：—
+
+<details>
+<summary>📄 英文摘要</summary>
+
+Nature Sustainability, Published online: 16 November 2026;  doi:10.1038/s41893-026-01986-6 Thermoelectric technologies must balance conversion efficiency with resource sustainability. Here the authors demonstrate that eco-friendly zinc antimonide (ZnSb) is a viable materials choice, delivering ~8% efficiency alongside exceptional cost-effectiveness.
 
 </details>
 
@@ -856,6 +874,8 @@ Nature Physics, Published online: 13 November 2026;  doi:10.1038/s41567-026-0352
 
 ---
 ## Nature Synthesis
+
+*（当日无相关文章，以下为近期精选）*
 
 ### 1. Synthetic interfaces in perovskite photovoltaics
 
@@ -875,7 +895,7 @@ Nature Physics, Published online: 13 November 2026;  doi:10.1038/s41567-026-0352
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Synthesis, Published online: 13 November 2026;  doi:10.1038/s44160-026-01202-5 Synthetic interfaces, created in situ through physical and chemical processes that facilitate structural interlocking, chemical bridging and surface restructuring, offer a scalable pathway to commercially viable perovskite photovoltaics.
+（暂无）
 
 </details>
 
@@ -893,7 +913,7 @@ Nature Synthesis, Published online: 13 November 2026;  doi:10.1038/s44160-026-01
 
 ### 1. Climate risk management must move from hazards to impacts
 
-> **气候风险管理必须从危害转向影响**
+> **Climate risk management must move from hazards to impacts**
 
 | | |
 |---|---|
@@ -927,7 +947,7 @@ Nature Synthesis, Published online: 13 November 2026;  doi:10.1038/s44160-026-01
 
 ### 1. Antiferroelectric hafnia down to the 2D limit
 
-> **反铁电氧化铪降至二维极限**
+> **反铁电氧化铪降至2D极限**
 
 | | |
 |---|---|
@@ -957,16 +977,18 @@ Antiferroelectricity is a material property characterized by alternating electri
 ---
 ## Science Advances
 
-### 1. The persistent multidomain health effects of the early-life exposome
+*（当日无相关文章，以下为近期精选）*
 
-> **早期生活暴露组对多领域健康产生的持久影响**
+### 1. Arbitrarily cuttable and ultrathin MXene structural colors for customizable and wearable multispectral information management
+
+> **用于可定制和可穿戴多光谱信息管理的任意可切割超薄MXene结构色**
 
 | | |
 |---|---|
 | **期刊** | Science Advances |
-| **作者** | Augusto Anguita Ruiz, Ines Amine, Chongliang Luo, Alicia Guillien, María Arteaga, Adrià Setó-Llorens, Nikos Stratakis, Lea Maitre, Nuria Güil-Oumrait, Marina Ruiz-Rivera, Parisa Montazeri, Jose Urquiza, Mark Nieuwenhuijsen, Cathrine Thomsen, Line Småstuen Haug, Berit Granum, Sandra Andrusaityte, Regina Grazuleviciene, Audrius Dedele, Wenlun Yuan, Barbara Heude, Rosemary McEachan, Marina Vafeiadi, Leda Chatzi, John Wright, Tiffany C. Yang, Claire Philippat, Juan R. Gonzalez, Rémy Slama, Martine Vrijheid, Xavier Basagaña, Valérie Siroux |
+| **作者** | Chunxiao Wu, Huhu Cheng, Chuanxin Weng, Chen Luo et al. |
 | **日期** | 2026-11-13 |
-| **DOI** | [10.1126/sciadv.aec2089](https://doi.org/10.1126/sciadv.aec2089) |
+| **DOI** | [10.1126/sciadv.aej2247](https://doi.org/10.1126/sciadv.aej2247) |
 
 **🔑 核心价值**：（暂无）
 
@@ -975,67 +997,37 @@ Antiferroelectricity is a material property characterized by alternating electri
 <details>
 <summary>📄 英文摘要</summary>
 
-Science Advances, Volume 12, Issue 46, November 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. When and how particles are removed by drops
-
-> **液滴何时以及如何去除颗粒物**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Abhinav Naga, Franziska Sabath, Doris Vollmer, Halim Kusumaatmaja |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1126/sciadv.aef8434](https://doi.org/10.1126/sciadv.aef8434) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 46, November 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. An end-to-end machine-learning system for global eddy-resolving ocean forecast
-
-> **用于全球涡旋分辨海洋预报的端到端机器学习系统**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Xiang Zhang, Yingzhe Cui, Furong Li, Shenghui Zhou, Guangnan Wu, Zhao Jing, Lixin Wu |
-| **日期** | 2026-11-13 |
-| **DOI** | [10.1126/sciadv.aeh9058](https://doi.org/10.1126/sciadv.aeh9058) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 46, November 2026.
+Structural colors based on natural and artificial microstructures show promising light manipulation. As atomically thick building blocks, Ti
+                     3 
+                    C
+                     2 
+                    T
+                     x 
+                    sheets have been successfully assembled into the ultrathin, flexible, arbitrarily cuttable, large-size structural colors by the simple and low-cost spray methods based on the lossy thin-film interference. By ordered stacking atomically thick Ti
+                     3 
+                    C
+                     2 
+                    T
+                     x 
+                    layer by layer at well-organized low–surface tension semidry assemble state, rich colors from yellow to gray with the thickness from ∼22 to ∼154 nanometers of uniform Ti
+                     3 
+                    C
+                     2 
+                    T
+                     x 
+                    colors are obtained, having the thinnest framework among solution-processed flexible structural colors with similar optical performance. Low-infrared emissivity from room to 300°C temperature and region-selective patterns make highly information-fused and complex visible-infrared (VIS-IR) Ti
+                     3 
+                    C
+                     2 
+                    T
+                     x 
+                    colors camouflage. Without conventional dielectric layer between Ti
+                     3 
+                    C
+                     2 
+                    T
+                     x 
+                    and substrate, automated spraying system can produce meter-scale films that can be cut and sewn into VIS-IR concealment “camouflage cloaks” easily, promising ultrathin multifunctional information systems and beyond.
 
 </details>
 
