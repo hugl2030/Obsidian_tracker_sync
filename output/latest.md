@@ -1,15 +1,15 @@
 ---
-date: 2026-11-21
+date: 2026-11-22
 type: journal-digest
 topics: [battery, microscopy, 2D-materials, materials]
 ---
 
-# 📰 期刊每日速递 · 2026-11-21
+# 📰 期刊每日速递 · 2026-11-22
 
 > 涵盖期刊：Nature 系列 · Science 系列 · ACS · Wiley
 > 话题：电池 · 电子显微镜 · 二维材料 · 材料科学
 
-> 本期共收录 **39** 篇，覆盖 **17** 个期刊。
+> 本期共收录 **27** 篇，覆盖 **17** 个期刊。
 
 ---
 
@@ -17,7 +17,7 @@ topics: [battery, microscopy, 2D-materials, materials]
 
 ### 1. Functionalized Interface Engineering of Cellulose-Based Electrolytes for Safety and Long-Life Li–Metal Batteries
 
-> **用于安全和长寿命锂金属电池的纤维素基电解质功能化界面工程**
+> **用于安全和长寿命锂金属电池的纤维素基电解质官能化界面工程**
 
 | | |
 |---|---|
@@ -48,26 +48,21 @@ Abstract
 ---
 ## Advanced Materials
 
-### 1. Synergistic Salt‐Bridge and Hydrophobic Interaction‐Driven Supramolecular Adhesives Enable Ultrastrong Dry/Underwater Bonding and Broad Harsh‐Condition Adaptability: Polyelectrolyte‐Templated Multi‐Promoting Effects
+### 1. High‐Efficiency Solution‐Processed Sensitized OLEDs With Low Roll‐Off Enabled by Near‐Ultraviolet Emissive Thermally Activated Delayed Fluorescent Polysiloxanes
 
-> **协同盐桥和疏水相互作用驱动的超分子粘合剂实现超强干/水下粘合和广泛的恶劣条件适应性：聚电解质模板的多重促进效应**
+> **由近紫外发光热激活延迟荧光聚硅氧烷实现的低滚降高效率溶液法敏化OLED**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Ziwei Lin, 
-Li Pan, 
-Zhongke Li, 
-Yang Zhang, 
-Qikai Zhu, 
-Fan Yang, 
-Jiayi Yang, 
-Xiaofeng Lin, 
-Jingyi Rao, 
-Zhuanggui Chen, 
-Dingshan Yu |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1002/adma.75820](https://doi.org/10.1002/adma.75820) |
+| **作者** | Guanyu Jiang, 
+Haisong Zhao, 
+Maoqiu Li, 
+Lei Hua, 
+Yuchao Liu, 
+Zhongjie Ren |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1002/adma.75836](https://doi.org/10.1002/adma.75836) |
 
 **🔑 核心价值**：（暂无）
 
@@ -88,27 +83,31 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 2. N‐Type Organic Ultraviolet Sensor
+### 2. Understanding Activation Energies of Dark Currents in Shortwave Infrared Organic Photodiodes
 
-> **N型有机紫外线传感器**
+> **了解短波红外有机光电二极管中暗电流的活化能**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Peiyun Li, 
-Tianyi Zhang, 
-Nora Engelmann, 
-Sergio Gámez‐Valenzuela, 
-Zongbao Zhang, 
-Rakesh Rajendran Nair, 
-Ali Solgi, 
-Laura Teuerle, 
-Tommy Meier, 
-Simone Fabiano, 
-Karl Leo, 
-Hans Kleemann |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1002/adma.75817](https://doi.org/10.1002/adma.75817) |
+| **作者** | Hoang Mai Luong, 
+Sang Do, 
+Vivian Worthington, 
+Zhong‐Ze Qu, 
+Sangmin Chae, 
+Ahra Yi, 
+Hiba Wakidi, 
+Emmanuel Lanuza, 
+Qiaonan Chen, 
+Ergang Wang, 
+Jong‐Woon Ha, 
+Seo‐Jin Ko, 
+Kazuhiro Mouri, 
+Yasuo Miyata, 
+Oskar J. Sandberg, 
+Thuc‐Quyen Nguyen |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1002/adma.75809](https://doi.org/10.1002/adma.75809) |
 
 **🔑 核心价值**：（暂无）
 
@@ -129,21 +128,22 @@ Advanced Materials, EarlyView.
 </details>
 
 ---
-### 3. Ni‐Embedded Carbon Fibers Enable Synergistic Confinement and Catalytic Conversion of Iodine Species for Zn–I2 Batteries
+### 3. Spontaneous Emulsification of Long‐Chain Alkanes to Form Oil‐in‐Water Nano‐Emulsions
 
-> **镍嵌入碳纤维实现碘物种的协同限域和催化转化，用于锌-碘电池**
+> **长链烷烃自发乳化形成油包水纳米乳液**
 
 | | |
 |---|---|
 | **期刊** | Advanced Materials |
-| **作者** | Haoxiang Di, 
-Deyan Luan, 
-Jiarui Yang, 
-Lili Wu, 
-Xitian Zhang, 
-Xiong Wen (David) Lou |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1002/adma.75711](https://doi.org/10.1002/adma.75711) |
+| **作者** | Jinpeng Zhang, 
+Huiqing Zhang, 
+Xinming Xu, 
+Benzheng Lyu, 
+Baoshan Lu, 
+Zhenghe Xu, 
+Dejun Sun |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1002/adma.75805](https://doi.org/10.1002/adma.75805) |
 
 **🔑 核心价值**：（暂无）
 
@@ -166,21 +166,17 @@ Advanced Materials, EarlyView.
 ---
 ## Angewandte Chemie
 
-### 1. An Acyclic Two‐Coordinate Stannyliumylidene Enables SnII/SnIV Redox Catalysis
+### 1. Thiophenol‐Catalyzed Anti‐Markovnikov Coupling of α‐Methylene‐γ‐Butenolides Under Visible Light: Total Synthesis of Aucklappalide A
 
-> **无环双配位锡亚烯基实现SnII/SnIV氧化还原催化**
+> **可见光下α-亚甲基-γ-丁内酯的硫酚催化反马氏偶联：Aucklappalide A的全合成**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Priyanka Chakraborty, 
-Dechuang Niu, 
-Arseni Kostenko, 
-Xufang Liu, 
-Tobias Weng, 
-Shigeyoshi Inoue |
+| **作者** | Maria Kourgiantaki, 
+Alexandros L. Zografos |
 | **日期** | 2026-11-22 |
-| **DOI** | [10.1002/anie.4327543](https://doi.org/10.1002/anie.4327543) |
+| **DOI** | [10.1002/anie.3685132](https://doi.org/10.1002/anie.3685132) |
 
 **🔑 核心价值**：（暂无）
 
@@ -201,27 +197,16 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 2. Radical Buffering by Isolated Ru and Fe Sites in ZSM‐5 for Selective Methane Oxidation to Formic Acid
+### 2. Catalytically Active Species and Sites in CO2 Hydrogenation Identified by Modulation Excitation Spectroscopy
 
-> **ZSM-5中孤立的Ru和Fe位点对甲烷选择性氧化为甲酸的自由基缓冲作用**
+> **通过调制激发光谱鉴定的CO2加氢反应中具有催化活性的物质和位点**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Bo Liu, 
-Yang Tang, 
-Hongyue Pan, 
-Zemin An, 
-Yuanjie Xu, 
-Lizhi Wu, 
-Li Tan, 
-Xupeng Zong, 
-Yihu Dai, 
-Jiabin Chen, 
-Zailai Xie, 
-Yu Tang |
+| **作者** | Christian Hess |
 | **日期** | 2026-11-22 |
-| **DOI** | [10.1002/anie.4792783](https://doi.org/10.1002/anie.4792783) |
+| **DOI** | [10.1002/anie.7558381](https://doi.org/10.1002/anie.7558381) |
 
 **🔑 核心价值**：（暂无）
 
@@ -242,19 +227,22 @@ Angewandte Chemie International Edition, EarlyView.
 </details>
 
 ---
-### 3. Alternating Terpolymerization of CO2 With Cyclosilanes and Epoxides to A‐B‐C‐Sequenced Recyclable Poly(silyl ether–ester)
+### 3. Guide DNAs Program Enzyme for Detection of Circulating Tumor DNA Without Target Denaturation and Amplification
 
-> **CO2与环硅烷和环氧化物的交替三元共聚，生成A-B-C序列的可回收聚（硅醚-酯）**
+> **用于检测循环肿瘤DNA的引导DNA程序酶，无需靶向变性和扩增**
 
 | | |
 |---|---|
 | **期刊** | Angewandte Chemie |
-| **作者** | Min Zhu, 
-Xavier Westworth, 
-Yingluo Zhao, 
-Eugene Y.‐X. Chen |
+| **作者** | Xinmiao Kang, 
+Qinze Rong, 
+Yifan Bo, 
+Xin Li, 
+Liang Ma, 
+Shihui Wang, 
+Xin Su |
 | **日期** | 2026-11-22 |
-| **DOI** | [10.1002/anie.4655243](https://doi.org/10.1002/anie.4655243) |
+| **DOI** | [10.1002/anie.4701250](https://doi.org/10.1002/anie.4701250) |
 
 **🔑 核心价值**：（暂无）
 
@@ -319,7 +307,7 @@ and *OH Generation
 
 > **掺杂
 双功能AgNi位点实现
-通过增强*CO和*OH生成实现
+通过增强的*CO和*OH生成实现
 选择性CO2电还原为乙醇**
 
 | | |
@@ -386,20 +374,20 @@ Abstract
 ---
 ## Nano Letters
 
-### 1. High-Performance
-Strain-Sensing Fibers via a Multidimensional
-Percolation Network Strategy for Intelligent Speech System
+### 1. Correction
+to “Surface-Neutralized HgCdSe Quantum
+Dots for High-Detectivity Infrared Photodetectors”
 
-> **高性能
-通过多维渗流网络策略
-智能语音系统渗流网络策略**
+> **更正
+“用于高探测率红外光电探测器的
+量子点”的勘误**
 
 | | |
 |---|---|
 | **期刊** | Nano Letters |
-| **作者** | Xiao Wei, Shengxin Xiang, Zhishui Chen, Lei Liu et al. |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1021/acs.nanolett.6c04249](https://doi.org/10.1021/acs.nanolett.6c04249) |
+| **作者** | Wonseok Lee, Su Hwan Lee, Sang Hyun Nam, Min-Jae Si et al. |
+| **日期** | 2026-11-22 |
+| **DOI** | [10.1021/acs.nanolett.6c05655](https://doi.org/10.1021/acs.nanolett.6c05655) |
 
 **🔑 核心价值**：（暂无）
 
@@ -407,85 +395,8 @@ Percolation Network Strategy for Intelligent Speech System
 
 <details>
 <summary>📄 英文摘要</summary>
-
-Abstract 
-                   Flexible strain sensors often face trade-offs among sensitivity, sensing range, resolution, and stability under deformation. Here, we report a multidimensional percolation strategy for high-performance strain-sensing fibers by integrating 0D Ag microparticles, 1D carbon nanotubes, and 2D carbon sheets into a ternary conductive network through wet spinning. The fibers exhibit a maximum gauge factor of 4640.1, a sensing range up to 65%, and a strain resolution of 0.025%, which is retained under 20% prestrain. Their microstrain sensitivity enables the detection of mechanical signals associated with magnetic microrobot locomotion and the identification of bionic insect model movements using a biomimetic spider-web network. Coupling the fibers with deep learning yields 98.7% recognition accuracy across 21 spoken-word classes. Integration with virtual reality further demonstrates a speech-driven interface in which recognized speech triggers predefined virtual-character responses. These results provide a route toward high-performance fiber sensors for intelligent human–machine interaction.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
 
 （暂无）
-
-</details>
-
----
-### 2. Arbitrary Wavefront
-Engineering of Diamond Raman Lasers
-Using Metasurfaces
-
-> **任意波前
-金刚石拉曼激光器的工程设计
-使用超表面**
-
-| | |
-|---|---|
-| **期刊** | Nano Letters |
-| **作者** | Cheng-Long Zheng, Yong-Sheng Hu, Ke-Xue Li, Xiao-Bo Mi et al. |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1021/acs.nanolett.6c04693](https://doi.org/10.1021/acs.nanolett.6c04693) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Diamond Raman lasers provide a powerful and versatile route to achieving high-power coherent emission across a broad spectral range. However, their dependence on complex and bulky free-space optics has posed a significant barrier to miniaturization and system level integration. In this work, we overcome this limitation by integrating a metasurface to enable an arbitrary wavefront control of a diamond Raman laser. This hybrid platform demonstrates remarkable versatility, supporting a diverse range of advanced functionalities, from grayscale display and multichannel vortex beam generation to dual-focus output with tunable intensity ratios and multiplane holography. Our approach uniquely combines the power scalability, coherence, and spectral coverage of state-of-the-art diamond lasers with the precise, ultracompact wavefront manipulation enabled by metasurfaces. By doing so, this work provides a viable route to bridging the long-standing gap between high-power laser generation and wavefront engineering, opening new avenues for transformative applications in compact communication, sensing, and imaging systems.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Orbital Occupancy
-as Screening Criterion for Second-Order
-Topology in
-                     C 
-                    3-Derived Hexagonal
-Lattices
-
-> **轨道占有率
-作为二阶拓扑的筛选标准
-拓扑的
-                     C 
-                    3-衍生六方
-晶格**
-
-| | |
-|---|---|
-| **期刊** | Nano Letters |
-| **作者** | Yifan Li, Kai Zhang, Haifeng Lv, Xiaojun Wu et al. |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1021/acs.nanolett.6c04056](https://doi.org/10.1021/acs.nanolett.6c04056) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Abstract 
-                   Identifying molecular building units for two-dimensional second-order topology generally requires analyzing the assembled framework. Here we establish an orbital-occupancy criterion for centrosymmetric, spinless hexagonal lattices assembled from C3-symmetric motifs. Tight-binding analysis identifies Dirac, four-band, and Kagome-derived sectors, with only the occupied Kagome-derived sector contributing nontrivially to the second Stiefel–Whitney invariant ω2. The criterion has two steps: NSOMO, the number of singly occupied molecular orbitals of the motif, must satisfy NSOMO ≡ 0 (mod 3) for a symmetry-preserving band insulator; once a gap and the required sector connectivity are confirmed, the parity of NOCC, the number of occupied bands below the target gap, determines ω2 (odd: 1; even: 0). First-principles calculations on 30 graphene antidot lattices and 25 covalent organic frameworks validate the criterion and identify 6 flat-band second-order topological insulator candidates. This orbital-based prescreen narrows the search for second-order topology in C3-derived hexagonal lattices.
 
 </details>
 
@@ -499,16 +410,16 @@ Abstract
 ---
 ## Nature
 
-### 1. BepiColombo finally reaches Mercury after eight-year odyssey
+### 1. Hexa-substituted benzene synthesis with non-classical carbocations
 
-> **经过八年的漫长旅程，BepiColombo终于抵达水星**
+> **使用非经典碳正离子合成六取代苯**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | Davide Castelvecchi |
-| **日期** | 2026-11-21 |
-| **DOI** | [10.1038/d41586-026-03803-8](https://doi.org/10.1038/d41586-026-03803-8) |
+| **作者** | Guillaume Mollaert, Hang-Fei Tu, Jacob R. King, Mihai V. Popescu et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41586-026-11449-9](https://doi.org/10.1038/s41586-026-11449-9) |
 
 **🔑 核心价值**：（暂无）
 
@@ -517,7 +428,7 @@ Abstract
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 21 November 2026;  doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.
+Nature, Published online: 23 November 2026;  doi:10.1038/s41586-026-11449-9 Hexa-substituted benzene synthesis with non-classical carbocations
 
 </details>
 
@@ -529,16 +440,16 @@ Nature, Published online: 21 November 2026;  doi:10.1038/d41586-026-03803-8 Euro
 </details>
 
 ---
-### 2. How AI is affecting science careers
+### 2. COP31 went down in flames over fossil fuels — it sends an important message
 
-> **人工智能如何影响科学职业**
+> **COP31因化石燃料问题而告吹——这传递出一个重要信息**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | David Payne |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/d41586-026-03680-1](https://doi.org/10.1038/d41586-026-03680-1) |
+| **作者** | James Dinneen |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/d41586-026-03827-0](https://doi.org/10.1038/d41586-026-03827-0) |
 
 **🔑 核心价值**：（暂无）
 
@@ -547,7 +458,7 @@ Nature, Published online: 21 November 2026;  doi:10.1038/d41586-026-03803-8 Euro
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03680-1 Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.
+Nature, Published online: 23 November 2026;  doi:10.1038/d41586-026-03827-0 Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.
 
 </details>
 
@@ -559,16 +470,16 @@ Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03680-1 Join
 </details>
 
 ---
-### 3. Lifting weights reduces muscle loss from obesity drugs
+### 3. Continuous N-to-C Peptide Synthesis
 
-> **举重可减少肥胖药物导致的肌肉流失**
+> **连续N-C肽合成**
 
 | | |
 |---|---|
 | **期刊** | Nature |
-| **作者** | N/A |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/d41586-026-03751-3](https://doi.org/10.1038/d41586-026-03751-3) |
+| **作者** | Jingjun Yin, Ji Qi, Zhiyan Song, Baoqiang Wan et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41586-026-11448-w](https://doi.org/10.1038/s41586-026-11448-w) |
 
 **🔑 核心价值**：（暂无）
 
@@ -577,7 +488,7 @@ Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03680-1 Join
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.
+Nature, Published online: 23 November 2026;  doi:10.1038/s41586-026-11448-w Continuous N-to-C Peptide Synthesis
 
 </details>
 
@@ -591,16 +502,16 @@ Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03751-3 Resi
 ---
 ## Nature Chemistry
 
-### 1. Isolable crystalline oxoboranes
+### 1. An artificial photoenzyme constrains substrates for selective antarafacial electrocyclizations
 
-> **可分离的结晶氧硼烷**
+> **一种用于选择性反面环化的约束底物的人工光酶**
 
 | | |
 |---|---|
 | **期刊** | Nature Chemistry |
-| **作者** | Todd W. Hudnall |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41557-026-02310-7](https://doi.org/10.1038/s41557-026-02310-7) |
+| **作者** | Jonathan S. Trimble, Jordan Berreur, Anna R. Kohn, Rebecca Crawshaw et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41557-026-02297-1](https://doi.org/10.1038/s41557-026-02297-1) |
 
 **🔑 核心价值**：（暂无）
 
@@ -609,67 +520,7 @@ Nature, Published online: 20 November 2026;  doi:10.1038/d41586-026-03751-3 Resi
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Chemistry, Published online: 20 November 2026;  doi:10.1038/s41557-026-02310-7 Oxoboranes, compounds featuring a central dicoordinate boron atom engaged in a B–O triple bond, have long been regarded as highly reactive and are typically observed only as transient species. Although attempts to synthesize them date back to the 1960s, their isolation in the condensed phase has proved challenging. Now, two independent studies describe the isolation of neutral and cationic oxoboranes derived from related diboracumulenes.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Sorting reaction pathways to program alkene skeletons
-
-> **对反应途径进行分类以编程烯烃骨架**
-
-| | |
-|---|---|
-| **期刊** | Nature Chemistry |
-| **作者** | Shuxin Mao, Kathrin Junge, Matthias Beller |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41557-026-02306-3](https://doi.org/10.1038/s41557-026-02306-3) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Chemistry, Published online: 20 November 2026;  doi:10.1038/s41557-026-02306-3 Small changes in alkene structure usually mean big changes in synthetic routes. Now, nickel catalysts that sort radical and organometallic pathways can deliver four alkene architectures from related building blocks.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Globally antiaromatic anthracene–porphyrin nanobelts
-
-> **整体反芳香蒽–卟啉纳米带**
-
-| | |
-|---|---|
-| **期刊** | Nature Chemistry |
-| **作者** | Leonard S. L. Goh, Lene A. Gödde, Ka Man Cheung, Prakhar Gupta et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41557-026-02302-7](https://doi.org/10.1038/s41557-026-02302-7) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Chemistry, Published online: 20 November 2026;  doi:10.1038/s41557-026-02302-7 Conjugated molecular belts show unusual electronic and magnetic properties owing to their radially oriented p orbitals. Now, anthracene-bridged porphyrin nanobelts have been synthesized through a nickel(0)-mediated coupling strategy followed by Scholl oxidation. These hybrid nanobelts show global antiaromaticity, with Hückel circuits of 72, 96 or 120 π electrons.
+Nature Chemistry, Published online: 23 November 2026;  doi:10.1038/s41557-026-02297-1 Enzymatic electrocyclizations are scarce, with little known about the structural requirements for efficient catalysis. Now, an artificial photoenzyme has been engineered for highly selective 6π-electrocyclizations of acrylanilide substrates. The evolved enzyme pre-organizes the substrate through an extended network of hydrophobic interactions into a highly favourable geometry for enantioselective antarafacial electrocyclization.
 
 </details>
 
@@ -683,16 +534,16 @@ Nature Chemistry, Published online: 20 November 2026;  doi:10.1038/s41557-026-02
 ---
 ## Nature Communications
 
-### 1. Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes
+### 1. ORE1 stabilizes PIF4 protein through a UBP12/UBP13-dependent regulatory module in thermomorphogenesis
 
-> **聚电解质络合物的电诱导玻璃化转变实现了动力学离子二极管**
+> **ORE1 通过热形态发生中 UBP12/UBP13 依赖性调节模块稳定 PIF4 蛋白**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Chankyu Kim, Chan-Hyuk Jeon, Jowon Shin, Younghoon Kim et al. |
-| **日期** | 2026-11-22 |
-| **DOI** | [10.1038/s41467-026-79559-6](https://doi.org/10.1038/s41467-026-79559-6) |
+| **作者** | Su-Hyun Park, Teck Lim Moo, Nam-Hai Chua |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41467-026-79802-0](https://doi.org/10.1038/s41467-026-79802-0) |
 
 **🔑 核心价值**：（暂无）
 
@@ -701,7 +552,7 @@ Nature Chemistry, Published online: 20 November 2026;  doi:10.1038/s41557-026-02
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-026-79559-6 The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle.
+Nature Communications, Published online: 23 November 2026;  doi:10.1038/s41467-026-79802-0 Plants adapt their growth to warmth, but how aging signals tune protein stability remains unclear. Here, the authors show that the senescence factor ORE1 acts as a scaffold to stabilize the heat regulator PIF4 via UBP12/UBP13-mediated deubiquitination, driving warmth induced growth.
 
 </details>
 
@@ -713,16 +564,16 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 </details>
 
 ---
-### 2. The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes
+### 2. A conceptual analysis of One Health and Person-Centred Practice
 
-> **儿童身高发育的遗传和蛋白质组学决定因素及其与成年人身高和2型糖尿病的关联**
+> **“一体健康”和“以人为本的实践”的概念分析**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | N. Fragoso-Bargas, AE Lupu, I. Campillo-Pereda, Y. Huang et al. |
-| **日期** | 2026-11-22 |
-| **DOI** | [10.1038/s41467-026-79465-x](https://doi.org/10.1038/s41467-026-79465-x) |
+| **作者** | Júlio Belo Fernandes, Diana Vareta, Sónia Fernandes, Cidália Castro et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41467-026-79922-7](https://doi.org/10.1038/s41467-026-79922-7) |
 
 **🔑 核心价值**：（暂无）
 
@@ -731,7 +582,7 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-026-79465-x Childhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk.
+Nature Communications, Published online: 23 November 2026;  doi:10.1038/s41467-026-79922-7 This Review examines how One Health and person-centred practice can strengthen each other. The authors argue that care should account for animal and ecosystem health, while One Health should attend to people’s lived experience.
 
 </details>
 
@@ -743,16 +594,16 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 </details>
 
 ---
-### 3. A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors
+### 3. Non Hermitian synthetic phase shifter with topologically protected phase control via tunable losses
 
-> **一种基于深度学习的定量框架揭示了转录因子之间的染色质敏感性连续性**
+> **通过可调损耗实现拓扑保护相位控制的非厄米合成移相器**
 
 | | |
 |---|---|
 | **期刊** | Nature Communications |
-| **作者** | Lukas Burger, Noa Gil, Dirk Schübeler |
-| **日期** | 2026-11-22 |
-| **DOI** | [10.1038/s41467-026-79404-w](https://doi.org/10.1038/s41467-026-79404-w) |
+| **作者** | Kevin Zelaya, Jonathan Friedman, Hector A. Rubio Rivera, Stefan Preble et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41467-026-79534-1](https://doi.org/10.1038/s41467-026-79534-1) |
 
 **🔑 核心价值**：（暂无）
 
@@ -761,7 +612,7 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-026-79404-w The authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms.
+Nature Communications, Published online: 23 November 2026;  doi:10.1038/s41467-026-79534-1 Programmable photonic circuits typically rely on refractive-index modulation for active control, limiting scalability. Here, authors develop and validate a synthetic phase-shifter framework using optical loss modulation to achieve full-cycle phase control protected by topological quantities.
 
 </details>
 
@@ -775,16 +626,16 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 ---
 ## Nature Energy
 
-### 1. Improving compatibility in mixed-matrix membranes
+### 1. Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries
 
-> **提高混合基质膜的相容性**
+> **轮廓化可减轻固态电池放电时锂/陶瓷电解质界面的空隙**
 
 | | |
 |---|---|
 | **期刊** | Nature Energy |
-| **作者** | Mariolino Carta |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41560-026-02174-8](https://doi.org/10.1038/s41560-026-02174-8) |
+| **作者** | Shengming Zhang, Bingkun Hu, Dominic L. R. Melvin, Dominic Spencer-Jolly et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41560-026-02172-w](https://doi.org/10.1038/s41560-026-02172-w) |
 
 **🔑 核心价值**：（暂无）
 
@@ -793,37 +644,7 @@ Nature Communications, Published online: 22 November 2026;  doi:10.1038/s41467-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Energy, Published online: 20 November 2026;  doi:10.1038/s41560-026-02174-8 Mixed-matrix membranes promise to combine the processability of polymers with the transport advantages of porous fillers, yet poor compatibility between the two limits their performance. New research shows that tailoring interfaces between polymers and covalent organic frameworks enables high filler loadings, producing improved membranes for carbon capture.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Environmental and material implications of global climate mitigation pathways
-
-> **全球气候减缓路径的环境和物质影响**
-
-| | |
-|---|---|
-| **期刊** | Nature Energy |
-| **作者** | A. J. Hahn Menacho, D. Bantje, C. Bauer, N. Bauer et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41560-026-02171-x](https://doi.org/10.1038/s41560-026-02171-x) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Energy, Published online: 20 November 2026;  doi:10.1038/s41560-026-02171-x Deep decarbonization benefits health and ecosystems but does not necessarily reduce land, water or mineral pressures. Here the researchers show that different pathways can shift when metals are extracted without changing total demand.
+Nature Energy, Published online: 23 November 2026;  doi:10.1038/s41560-026-02172-w Discharge-induced voids are a major barrier to practical lithium metal solid-state batteries. Here the authors show that an egg-box-contoured lithium–electrolyte interface increases the voiding threshold by an order of magnitude and enables realistic electric vehicle discharge profiles without polarization.
 
 </details>
 
@@ -837,37 +658,9 @@ Nature Energy, Published online: 20 November 2026;  doi:10.1038/s41560-026-02171
 ---
 ## Nature Materials
 
-### 1. The person behind the scientist
+*（当日无相关文章，以下为近期精选）*
 
-> **科学家背后的那个人**
-
-| | |
-|---|---|
-| **期刊** | Nature Materials |
-| **作者** | Matteo Seita, Mengying Liu |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41563-026-02808-y](https://doi.org/10.1038/s41563-026-02808-y) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02808-y Matteo Seita and Mengying Liu discuss their reflections as organizers of The Past Metallurgists Society lecture series, where scientists meet to share stories of distinguished metallurgists from the past.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Nanostructures strengthen titanium alloys
+### 1. Nanostructures strengthen titanium alloys
 
 > **纳米结构强化钛合金**
 
@@ -885,37 +678,7 @@ Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02801-5 Machine learning guides the design of an additively manufactured titanium alloy containing superfine features at the 10 nm scale through controlled martensitic transformation, which achieves an ultimate tensile strength of more than 1.7 GPa and 7.5% uniform elongation.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
 （暂无）
-
-</details>
-
----
-### 3. High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces
-
-> **通过定制的硫-硫化物和硫-碳界面实现的高载量全固态锂-硫电池**
-
-| | |
-|---|---|
-| **期刊** | Nature Materials |
-| **作者** | Yukio Cho, Hongchang Hao, Miso Kim, Madison King et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41563-026-02813-1](https://doi.org/10.1038/s41563-026-02813-1) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02813-1 All-solid-state lithium–sulfur batteries are a next-generation high-energy-density solution for energy storage. Here catholyte/cathode interfaces are found to be as important as transport tortuosity in thick sulfur cathodes, and an areal capacity of 10 mAh cm−2 is demonstrated at a stack pressure of 15 MPa and sulfur loading of 6.1 mg cm−2.
 
 </details>
 
@@ -929,16 +692,16 @@ Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02
 ---
 ## Nature Nanotechnology
 
-### 1. Tracking local chemomechanics in graphite–silicon composite electrodes
+### 1. Depth-robust super-resolution nanofabrication for 3D mesoscopic photonic structures
 
-> **跟踪石墨-硅复合电极中的局部化学力学**
+> **用于3D介观光子结构的深度稳健超分辨纳米加工**
 
 | | |
 |---|---|
 | **期刊** | Nature Nanotechnology |
-| **作者** | Junsheng Wang, Chengpeng Xue |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41565-026-02328-5](https://doi.org/10.1038/s41565-026-02328-5) |
+| **作者** | Ziyu Li, Yue Wang, Chendi Shao, Jian Xu et al. |
+| **日期** | 2026-11-23 |
+| **DOI** | [10.1038/s41565-026-02335-6](https://doi.org/10.1038/s41565-026-02335-6) |
 
 **🔑 核心价值**：（暂无）
 
@@ -947,67 +710,7 @@ Nature Materials, Published online: 20 November 2026;  doi:10.1038/s41563-026-02
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Nanotechnology, Published online: 20 November 2026;  doi:10.1038/s41565-026-02328-5 Operando 4D imaging reveals how local ionic pathways govern activity in graphite–silicon battery electrodes.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Four-dimensional X-ray nano-holotomography reveals multiscale chemomechanics in composite graphite–silicon battery electrodes
-
-> **四维X射线纳米全息断层成像揭示了复合石墨-硅电池电极中的多尺度化学力学**
-
-| | |
-|---|---|
-| **期刊** | Nature Nanotechnology |
-| **作者** | Victor Vanpeene, Olga Stamati, Francois Cadiou, Quentin Jacquet et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41565-026-02327-6](https://doi.org/10.1038/s41565-026-02327-6) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Nanotechnology, Published online: 20 November 2026;  doi:10.1038/s41565-026-02327-6 Particle-resolved 4D nano-tomography identifies fast ionic transport pathways as key regulators of electrochemical activity and reversibility in graphite–silicon battery electrodes.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Antireflective bilayer metasurfaces with complete wavefront control
-
-> **具有完全波前控制的抗反射双层超表面**
-
-| | |
-|---|---|
-| **期刊** | Nature Nanotechnology |
-| **作者** | Jaewon Oh, Davide Cassara, Alfonso Palmieri, Lorenzo Piatti et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41565-026-02330-x](https://doi.org/10.1038/s41565-026-02330-x) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Nanotechnology, Published online: 20 November 2026;  doi:10.1038/s41565-026-02330-x A bilayer meta-atom structure engineers the antireflective capabilities of the metasurface, without affecting its full 0–2π transmission phase coverage.
+Nature Nanotechnology, Published online: 23 November 2026;  doi:10.1038/s41565-026-02335-6 An axially tuneable Bessel-beam STED approach maintains excitation–depletion alignment, enabling high-resolution fabrication of three-dimensional mesoscopic optical structures.
 
 </details>
 
@@ -1055,6 +758,8 @@ Nature Nanotechnology, Published online: 20 November 2026;  doi:10.1038/s41565-0
 ---
 ## Nature Sustainability
 
+*（当日无相关文章，以下为近期精选）*
+
 ### 1. O6-type layered oxides for sustainable high-energy battery cathodes
 
 > **用于可持续高能电池正极的O6型层状氧化物**
@@ -1073,37 +778,7 @@ Nature Nanotechnology, Published online: 20 November 2026;  doi:10.1038/s41565-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Sustainability, Published online: 20 November 2026;  doi:10.1038/s41893-026-01987-5 Cobalt-free cathodes are vital for green energy but suffer from structural instability. Here the authors report a unique O6-type framework that stabilizes oxygen redox for exceptional cycling durability.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
 （暂无）
-
-</details>
-
----
-### 2. Plant-derived photocatalytic carbon dots for crop disease management
-
-> **用于作物病害管理的植物源光催化碳点**
-
-| | |
-|---|---|
-| **期刊** | Nature Sustainability |
-| **作者** | Yupan Zhu, Wenbo Zhao, Bing Li, Kaikai Liu et al. |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1038/s41893-026-01978-6](https://doi.org/10.1038/s41893-026-01978-6) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Nature Sustainability, Published online: 20 November 2026;  doi:10.1038/s41893-026-01978-6 Plant fungal pathogens in crops can lead to substantial economic losses and pose a severe threat to food security. To tackle wheat Fusarium head blight, a devastating disease infecting wheat crops, an effective antifungal strategy using plant-derived photocatalytic carbon dots has been developed.
 
 </details>
 
@@ -1116,6 +791,8 @@ Nature Sustainability, Published online: 20 November 2026;  doi:10.1038/s41893-0
 
 ---
 ## Nature Synthesis
+
+*（当日无相关文章，以下为近期精选）*
 
 ### 1. Zinc carries hydrogen beyond pipelines
 
@@ -1135,7 +812,7 @@ Nature Sustainability, Published online: 20 November 2026;  doi:10.1038/s41893-0
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Synthesis, Published online: 20 November 2026;  doi:10.1038/s44160-026-01228-9 A machine-learning-identified lactate ligand doubles the solubility of Zn(II) in alkaline solutions, enabling metallic zinc to function as a transportable energy vector that releases hydrogen on demand without an external circuit.
+（暂无）
 
 </details>
 
@@ -1148,6 +825,8 @@ Nature Synthesis, Published online: 20 November 2026;  doi:10.1038/s44160-026-01
 
 ---
 ## Nature Water
+
+*（当日无相关文章，以下为近期精选）*
 
 ### 1. Beyond selectivity in ion separations
 
@@ -1167,7 +846,7 @@ Nature Synthesis, Published online: 20 November 2026;  doi:10.1038/s44160-026-01
 <details>
 <summary>📄 英文摘要</summary>
 
-Nature Water, Published online: 20 November 2026;  doi:10.1038/s44221-026-00755-1 Selectivity is the dominant metric for ion-selective separations, yet it often fails to predict process performance by itself. A new framework allows for a more reliable comparison between processes based on multiple separation outcomes.
+（暂无）
 
 </details>
 
@@ -1185,7 +864,7 @@ Nature Water, Published online: 20 November 2026;  doi:10.1038/s44221-026-00755-
 
 ### 1. Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells
 
-> **弹性场重组使软晶格钙钛矿稳定，从而实现耐用型太阳能电池**
+> **弹性场重组使软晶格钙钛矿稳定，从而实现耐用的太阳能电池**
 
 | | |
 |---|---|
@@ -1215,16 +894,18 @@ The soft lattice that enables the exceptional performance of halide perovskites 
 ---
 ## Science Advances
 
-### 1. SeqA-mediated sister loci cohesion regulates the efficiency and fidelity of DNA double-strand break repair across the E. coli genome
+*（当日无相关文章，以下为近期精选）*
 
-> **SeqA介导的姐妹位点粘连调节大肠杆菌基因组中DNA双链断裂修复的效率和保真度**
+### 1. Predictive model for nanoparticle incorporation into crystals reveals essential role of interfacial solution structure
+
+> **纳米颗粒掺入晶体的预测模型揭示了界面溶液结构的关键作用**
 
 | | |
 |---|---|
 | **期刊** | Science Advances |
-| **作者** | Deepak K. Singh, Amir Faraz, Nuha A. Khan, Jebin Babu, T. Sabari Sankar, David Bates, Mohan C. Joshi |
+| **作者** | Mingyi Zhang, Kuan-Ting Liu, Dong June Jang, Victorien J. B. Bernat et al. |
 | **日期** | 2026-11-20 |
-| **DOI** | [10.1126/sciadv.ady3050](https://doi.org/10.1126/sciadv.ady3050) |
+| **DOI** | [10.1126/sciadv.aei1245](https://doi.org/10.1126/sciadv.aei1245) |
 
 **🔑 核心价值**：（暂无）
 
@@ -1233,67 +914,7 @@ The soft lattice that enables the exceptional performance of halide perovskites 
 <details>
 <summary>📄 英文摘要</summary>
 
-Science Advances, Volume 12, Issue 47, November 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 2. Evolution of MEIS transcription factor activity during metazoan neural development—born to be wild
-
-> **MEIS转录因子活性在后生动物神经发育过程中的演变——天生野性**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Pavel Fedarenchik, Hanna Polevoy, Yael Volovik, Emil Aamar, Mohammed Mahroum, Gilad Barshad, Adi Salzberg, Dale Frank |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1126/sciadv.aea7093](https://doi.org/10.1126/sciadv.aea7093) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 47, November 2026.
-
-</details>
-
-<details>
-<summary>📝 中文摘要</summary>
-
-（暂无）
-
-</details>
-
----
-### 3. Self-assembly of bacterial volumetric patterns directed by a synthetic reaction-diffusion circuit
-
-> **由合成反应-扩散回路导向的细菌体积图案自组装**
-
-| | |
-|---|---|
-| **期刊** | Science Advances |
-| **作者** | Fuqing Wu, Changhan He, Samat Bayakhmetov, Duane Harris, Xin Fang, Javier Baez, Steven Ohnmacht, Qi Zhang, Xingwen Chen, Kyle R. Allison, Yang Kuang, Xiao Wang |
-| **日期** | 2026-11-20 |
-| **DOI** | [10.1126/sciadv.aec9323](https://doi.org/10.1126/sciadv.aec9323) |
-
-**🔑 核心价值**：（暂无）
-
-**关键词**：—
-
-<details>
-<summary>📄 英文摘要</summary>
-
-Science Advances, Volume 12, Issue 47, November 2026.
+Control of interfacial phenomena remains limited by incomplete understanding of molecular-scale solution structure at solid-liquid interfaces. We address this challenge by developing and validating a comprehensive analytical model for nanoparticle incorporation during crystallization. Using atomic force microscopy (AFM) probes surface functionalized to be “particle proxies” combined with three-dimensional AFM and force spectroscopy, we measure nanoparticle-calcite crystal binding energies and kinetic barriers associated with interfacial hydration layers. These measurements, together with diffusivities, parameterize a predictive model that is corroborated using surface-functionalized fluorescent silica nanoparticles incorporated into calcite. We show that surface chemistry governs incorporation by reshaping the energy landscape, with amine groups particularly favoring incorporation. Applying this approach to nanoparticles with different topologies further supports our finding that kinetic barriers play a pivotal role in incorporation processes. This synthesis science framework links interfacial solution structure, particle dynamics, and crystallization kinetics, identifying kinetic barriers as a key design principle for engineering bioinspired nanocomposites beyond empirical approaches.
 
 </details>
 
